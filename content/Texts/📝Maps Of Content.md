@@ -1,12 +1,11 @@
 ---
 created: 2023-07-20
-modified: 2023-09-01
+modified: 2024-07-01
 tags:
   - 📝
 aliases:
   - MOC
 ---
-# 📝Maps Of Content(MOC)
 メモ同士のつながりを一手にまとめたメモ。メモのメモ。古の言葉でいうリンク集。[[👤Nick Milo]]氏が提唱した。
 
 ## 概要

@@ -1,11 +1,11 @@
 ---
 created: 2023-07-23
-modified: 2023-07-23
+modified: 2024-07-01
 tags: []
-aliases: [HOME]
+aliases:
+  - HOME
 ---
-# 🏠Home
-ふりだし。スタート地点。いつでも戻れる場所。
+🏠ふりだし。スタート地点。いつでも戻れる場所。
 
 ## [[📝Maps Of Content]]
 - [[🗺️010_自分MOC]]
