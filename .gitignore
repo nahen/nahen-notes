@@ -16,5 +16,5 @@ content/.git
 content/.gitignore
 content/README.md
 content/Private/
-content/Assets/
+content/Assets/Private
 .vscode/launch.json
