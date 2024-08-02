@@ -54,7 +54,9 @@ export default {
       title: "目次",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `${minutes}分で読めます`,
+      createdDate: ({ date }) => `作成日: ${date}`,
+      modifiedDate: ({ date }) => `更新日: ${date}`,
     },
   },
   pages: {
@@ -65,7 +67,7 @@ export default {
     error: {
       title: "Not Found",
       notFound: "ページが存在しないか、非公開設定になっています。",
-      home: "ホームページに戻る",
+      home: "ホームに戻る",
     },
     folderContent: {
       folder: "フォルダ",

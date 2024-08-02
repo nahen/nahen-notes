@@ -9,3 +9,12 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Daily/
+content/Excalidraw/
+content/Template/
+content/.git
+content/.gitignore
+content/README.md
+content/Private/
+content/Assets/
+.vscode/launch.json
