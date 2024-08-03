@@ -15,7 +15,7 @@ interface ContentMetaOptions {
 }
 
 const defaultOptions: ContentMetaOptions = {
-  showReadingTime: true,
+  showReadingTime: false,
   showComma: true,
 }
 
@@ -50,6 +50,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       }
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
+
+      if (fileData.frontmatter && fileData.frontmatter["url"]) {
+          const url = fileData.frontmatter["url"] as string
+          segmentsElements.push(<a target="_blank" href={url}>{url}</a>)
+      }
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
