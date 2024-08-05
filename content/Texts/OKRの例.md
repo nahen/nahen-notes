@@ -1,6 +1,6 @@
 ---
 created: 2024-02-11
-modified: 2024-08-01
+modified: 2024-08-05
 tags: 
 aliases: 
 parents: "[[目標と成果指標（Objectives and Key Results）]]"
