@@ -1,6 +1,6 @@
 ---
 created: 2024-08-02
-modified: 2024-08-03
+modified: 2024-08-08
 tags:
   - 💎
 aliases: 
@@ -66,7 +66,7 @@ if (source === "filesystem") {
 
 ## 独自のメタデータを追加する
 ### `definition.ts`に追記
-`quartz/i18n/locales/definition.ts`の`contentMeta`に以下の2行を書き加える。
+`quartz/i18n/locales/definition.ts`の`contentMeta`に、新しく`createdDate`と`modifiedDate`というプロパティを追加する。書き加えるのは以下の2行である。
 ```ts
 contentMeta: {
   ...
@@ -77,7 +77,7 @@ contentMeta: {
 ```
 
 ### `ja-JP.ts`に追記
-[[💎Quartz v4で作成日と更新日を両方表示する#^locale|Quartzのコンフィグで設定したlocale]]と同じファイルに追記する。私の場合は`ja-JP.ts`である。
+[[💎Quartz v4で作成日と更新日を両方表示する#^locale|Quartzのコンフィグで設定したlocale]]と同じ名前のファイル（私の場合は`ja-JP.ts`）にも、同じように`createdDate`と`modifiedDate`というプロパティを追加する。ここで設定した文言がサイトに表示される。
 
 `quartz/i18n/locales/ja-JP.ts`の`contentMeta`に以下の2行を書き加える。
 ```ts
@@ -110,4 +110,5 @@ if (fileData.dates) {
 }
 ```
 
-以上、計4つのファイルを書き換えることで、ページ上部に作成日と更新日を並べて表示することができる。
+以上。  
+計4つのファイルを書き換えることで、ページ上部に作成日と更新日を並べて表示することができる。

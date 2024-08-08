@@ -1,6 +1,6 @@
 ---
 created: 2023-07-28
-modified: 2024-08-05
+modified: 2024-08-08
 tags:
   - 要約
   - Wired
