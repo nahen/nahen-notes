@@ -1,9 +1,9 @@
 ---
 created: 2024-07-13
-modified: 2024-08-01
+modified: 2024-08-06
 tags:
   - 🌐
-  - TODO
+  - 🏗️
 aliases: 
 parents: 
 title: 
@@ -107,10 +107,14 @@ dLRN 2015のオープニング基調講演。10月16日にスタンフォード�
 [^ストラヴィンスキーとは]: Igor Fyodorovitch Stravinsky。ロシアの作曲家。代表曲にバレエ音楽の「火の鳥」「ペトルーシカ」「春の祭典」。自動演奏ピアノの製造会社からの依頼で、デモ曲として「ピアノラのための練習曲」を作った。
 [^神智学とは]: 神智学の定義は2種類あるが、ここでは1875年にアメリカで設立された「神智学協会」が提唱する心霊主義的な教義を指す。後年のニューエイジ運動やオカルトに影響を与えたらしい。
 
-And weirdly, these links were compiled over the space of a year, just by noting things I learned or heard and linking them to things I’d heard before or that others had written. I created a wiki on issues of found art without even knowing it.
-そして奇妙なことに、
+%%And weirdly, these links were compiled over the space of a year, just by noting things I learned or heard and linking them to things I’d heard before or that others had written. I created a wiki on issues of found art without even knowing it.%%
+そして奇妙なことに、これらのリンクは1年かけて編纂されました。と言っても、ただ学んだことや聞いたことをメモして、以前聞いたことや他の人が書いたこととリンクするだけです。知らないうちに、私は「ファウンド・オブジェ[^found-art]」の問題についてのwikiを作ったのです。
 
-This experience has radically changed me, to the point I find it hard to communicate with a lot of technologists anymore. It’s like trying to explain literature to someone who has never read a book. You’re asked “So basically a book is just words someone said written down?” And you say no, it’s more than that. But how is it more than that?
+[^found-art]: 「自然の産物や人工物を「発見」し、美術作品やデザインのなかに生かすことで、偶然の発見、平凡さを見つめ直したり、通常そのものと結び付けられている意味の再評価などを示唆したりする。」（[現代美術用語辞典 1.0](https://artscape.jp/dictionary/modern/1198511_1637.html)より）
+	なお原文では「found art」。適切な日本語が思いつかなかったため、英語版Wikipediaの[「Found object」の記事](https://en.wikipedia.org/wiki/Found_object)を参考にして、「ファウンド・オブジェ」とした。
+
+%%This experience has radically changed me, to the point I find it hard to communicate with a lot of technologists anymore. It’s like trying to explain literature to someone who has never read a book. You’re asked “So basically a book is just words someone said written down?” And you say no, it’s more than that. But how is it more than that?%%
+この経験で私は根本から変わりました。多くの技術者とコミュニケーションを取ることが、もはや難しいとわかるほどです。それは本を読んだことがない人に文学を説明してみるようなものです。「つまり、本って単に誰かが言った言葉を書き留めただけなんだよね？」と尋ねられて、「いや、それ以上のものなんだよ」と答える。でも、それ以上のものというのは？
 
 This is my attempt to abstract from this experience something more general about the way in which we collaborate on the web, and the way in which it is currently very badly out of balance..
 
