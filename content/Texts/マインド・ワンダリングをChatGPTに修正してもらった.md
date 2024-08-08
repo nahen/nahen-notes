@@ -1,6 +1,6 @@
 ---
 created: 2023-07-28
-modified: 2024-08-01
+modified: 2024-08-08
 tags: 
 aliases: 
 parents: "[[📝マインド・ワンダリング]]"
