@@ -1,12 +1,12 @@
 ---
 created: 2023-07-28
-modified: 2023-07-28
+modified: 2024-07-31
 tags:
   - 🗺️
 aliases: 
 parents: "[[🗺️000_HOME]]"
+title: 💎040_ObsidianMOC
 ---
-# 💎ObsidianMOC
 [[🧰Obsidian]]についての[[📝Maps Of Content]]。
 
 ## リンク 
@@ -15,3 +15,5 @@ parents: "[[🗺️000_HOME]]"
 - [[💎Calendar]]
 - [[💎DataView]]
 - [[🧰Mermaid]]
+- [[🌐File over app]]
+- [[🗺️デジタル・ガーデン一覧]]
