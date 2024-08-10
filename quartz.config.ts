@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "nahen.github.io/nahen-notes",
+    baseUrl: "nahen.github.io/nahen-notes/",
     ignorePatterns: ["Private", "Templates", "Daily", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
     theme: {
