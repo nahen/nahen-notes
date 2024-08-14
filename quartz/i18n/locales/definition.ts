@@ -59,6 +59,7 @@ export interface Translation {
       readingTime: (variables: { minutes: number }) => string
       createdDate: (variables: { date: string }) => string
       modifiedDate: (variables: { date: string }) => string
+      linkText: string
     }
   }
   pages: {

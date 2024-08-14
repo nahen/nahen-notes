@@ -51,9 +51,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
+      // YAMLにurlがあれば表示する
       if (fileData.frontmatter && fileData.frontmatter["url"]) {
           const url = fileData.frontmatter["url"] as string
-          segmentsElements.push(<a target="_blank" href={url}>{url}</a>)
+          const text = i18n(cfg.locale).components.contentMeta.linkText
+          segmentsElements.push(<a target="_blank" href={url}>{text}</a>)
       }
 
       return (
