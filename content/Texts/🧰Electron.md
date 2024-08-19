@@ -1,7 +1,8 @@
 ---
 tags:
   - 🧰
-modified: 2024-07-31
+created: 2024-07-31
+modified: 2024-08-19
 ---
 ![[Electronのロゴ.png]]
 

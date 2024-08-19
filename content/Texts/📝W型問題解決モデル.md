@@ -2,7 +2,8 @@
 tags:
   - 📝
 aliases: 
-modified: 2024-07-30
+created: 2024-07-30
+modified: 2024-08-19
 ---
 ![[W型問題解決モデル.svg]]
 

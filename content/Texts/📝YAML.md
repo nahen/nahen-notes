@@ -5,8 +5,10 @@ aliases:
   - YAML
   - YAML Ain't Markup Language
 parents: "[[🗺️040_ObsidianMOC]]"
-modified: 2024-07-30
+created: 2024-07-30
+modified: 2024-08-19
 ---
+
 正式にはYAML Ain't Markup Language。  
 訳すと「YAMLはマークアップ言語じゃねえ」。PHPと同じく再帰的な命名方法。
 
