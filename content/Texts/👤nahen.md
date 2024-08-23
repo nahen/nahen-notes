@@ -1,6 +1,6 @@
 ---
 created: 2024-06-27
-modified: 2024-07-30
+modified: 2024-08-23
 tags:
   - 👤
 aliases: 
@@ -10,7 +10,7 @@ title: 👤nahen（なへん）
 ソフトウェアエンジニアをやってました。コードを書く人間です。本を読むのが好きです。
 
 ## 今何してる？
-[[🌐Antimoon Method]]をもとに英語を学び直しています。
+![[ℹ️NOW]]
 
 ## SNSアカウント
 - <i class="fa-brands fa-x-twitter"></i>[X](https://x.com/nahen_g)
