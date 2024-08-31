@@ -1,6 +1,6 @@
 ---
 created: 2024-07-13
-modified: 2024-08-08
+modified: 2024-08-31
 tags:
   - 🌐
   - 🏗️
@@ -114,9 +114,10 @@ dLRN 2015のオープニング基調講演。10月16日にスタンフォード�
 	なお原文では「found art」。適切な日本語が思いつかなかったため、英語版Wikipediaの[「Found object」の記事](https://en.wikipedia.org/wiki/Found_object)を参考にして、「ファウンド・オブジェ」とした。
 
 %%This experience has radically changed me, to the point I find it hard to communicate with a lot of technologists anymore. It’s like trying to explain literature to someone who has never read a book. You’re asked “So basically a book is just words someone said written down?” And you say no, it’s more than that. But how is it more than that?%%
-この経験で私は根本から変わりました。多くの技術者とコミュニケーションを取ることが、もはや難しいとわかるほどです。それは本を読んだことがない人に文学を説明してみるようなものです。「つまり、本って単に誰かが言った言葉を書き留めただけなんだよね？」と尋ねられて、「いや、それ以上のものなんだよ」と答える。でも、それ以上のものというのは？
+この経験は私を根本から変えました。多くの技術者とコミュニケーションを取ることが、もはや難しいとわかるほどです。それは本を読んだことがない人に文学を説明してみるようなものです。「つまり、本って単に誰かが言った言葉を書き留めただけなんだよね？」と尋ねられて、「いや、それ以上のものなんだよ」と答える。でも、それ以上のものというのは？
 
 This is my attempt to abstract from this experience something more general about the way in which we collaborate on the web, and the way in which it is currently very badly out of balance..
+これはこの経験から、私たちがネット上で協力する方法と、現在バランスがとても崩れている方法についてのより大まかな何かしらを取り出す私の試みです。
 
 I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected.
 
