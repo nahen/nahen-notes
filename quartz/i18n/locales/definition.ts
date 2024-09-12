@@ -60,6 +60,7 @@ export interface Translation {
       createdDate: (variables: { date: string }) => string
       modifiedDate: (variables: { date: string }) => string
       linkText: string
+      linkPdf: string
     }
   }
   pages: {

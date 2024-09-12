@@ -58,6 +58,7 @@ export default {
       createdDate: ({ date }) => `作成日: ${date}`,
       modifiedDate: ({ date }) => `更新日: ${date}`,
       linkText: `🔗参考Webサイト`,
+      linkPdf: `📑参考PDF`,
     },
   },
   pages: {
