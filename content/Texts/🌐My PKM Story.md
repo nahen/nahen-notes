@@ -1,6 +1,6 @@
 ---
 created: 2023-07-22
-modified: 2024-07-30
+modified: 2024-09-18
 tags:
   - 🌐
 aliases: 
@@ -11,7 +11,7 @@ url: https://medium.com/@nickmilo22/my-pkm-story-3763985b7a3e
 >Yes, we shape our tools, but in turn, our tools shape us.  
 >（そう、私たちは道具を形作りますが、今度は道具が私たちを形作るのです。）
 
-[[👤Nick Milo]]氏が自身のMeidumに書いた記事。自身が[[PKM]]を始めてから[[LYT Framework]]を生み出すまでの内容。
+[[👤Nick Milo]]氏が自身のMeidumに書いた記事。自身が[[📝PKM]]を始めてから[[LYT Framework]]を生み出すまでの内容。
 
 - [[💡他人が書いたものを集めすぎると楽しくなくなる]]
 
