@@ -2,7 +2,7 @@
 created: 2024-09-25
 modified: 2024-09-25
 tags:
-  - 📝
+  - 🌐
 aliases: 
 parents: "[[🌐File over app]]"
 title: 
