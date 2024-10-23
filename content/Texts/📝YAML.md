@@ -6,11 +6,11 @@ aliases:
   - YAML Ain't Markup Language
 parents: "[[🗺️040_ObsidianMOC]]"
 created: 2024-07-30
-modified: 2024-08-19
+modified: 2024-10-23
 ---
+正式にはYAML Ain't Markup Language。訳すと「YAMLはマークアップ言語じゃねえ」。PHP[^php]と同じく再帰的な命名方法。
 
-正式にはYAML Ain't Markup Language。  
-訳すと「YAMLはマークアップ言語じゃねえ」。PHPと同じく再帰的な命名方法。
+[^php]: PHPの正式名称は「PHP: Hypertext Preprocessor」。略してPHP。
 
 [[🧰Obsidian]]では、mdファイルの先頭にYAMLが記述できる。これにより、テキストファイルにメタ情報を設定できるようになる。
 
