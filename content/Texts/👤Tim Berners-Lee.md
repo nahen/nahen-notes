@@ -1,9 +1,10 @@
 ---
 created: 2024-10-23
-modified: 2024-10-23
+modified: 2024-10-24
 tags:
   - 👤
-aliases: 
+aliases:
+  - ティム・バーナーズ＝リー
 parents: 
 birth: 1955-06-08
 death: 
