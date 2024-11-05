@@ -1,6 +1,6 @@
 ---
 created: 2024-07-11
-modified: 2024-08-08
+modified: 2024-11-04
 tags:
   - 🌐
 aliases: 
@@ -26,7 +26,7 @@ url:
 - 営業またはマーケティング責任者が、市場での製品の認知度を上げると思われる新たな協力関係に取り組むように圧力をかけている
 
 %%Building bad products is an [unforced product management error](https://staysaasy.com/management/2020/10/05/unforced-errors.html). You didn’t have to build these products – you chose to do it. By checking on a product’s value well before it launches, you’ll be able to save hundreds of hours of work building, nurturing, and ultimately deprecating a fundamentally unviable product.%%
-悪い製品を作ることは、自分の責任によるプロダクト・マネジメントのエラーです。それらの製品を作る必要はなかったのですがーあなたは作ることを選んだのです。製品の販売よりずっと前にその価値を確認することで、根本的に実現不可能な製品を開発・育成し、最終的には非推奨にするために費やす何百時間もの作業を節約することができるでしょう。
+悪い製品を作ることは、自分の責任によるプロダクト・マネジメントのエラーです。それらの製品を作る必要はなかったのですがーーあなたは作ることを選んだのです。製品の販売よりずっと前にその価値を確認することで、根本的に実現不可能な製品を開発・育成し、最終的には非推奨にするために費やす何百時間もの作業を節約することができるでしょう。
 
 %%In my opinion in today’s age of SaaS products and Zoom meetings there is no excuse to ever ship a high effort feature that entirely flops. When Google builds things that nobody cares about, it’s an inert, victimless crime. When your high growth company commits the sin of building something that nobody gives a crap about, you’re stealing valuable resources from other projects that matter. At a high-growth company with product/market fit, you will always have more good ideas than you can act upon. Everything you build should add value.%%
 個人的には、今日のSaaS製品やZoomミーティングの時代において、労力をかけて完全な失敗である機能をリリースする口実はありません。Googleが誰も気に留めないものを作ったら、それは無気力であり、犠牲者なき犯罪です。あなたのいる高成長企業が、どうでもいいものを作るという罪を犯した場合、他の重要なプロジェクトから貴重なリソースを盗んでいることになります。製品と市場が一致する高成長企業では、実行できる以上の良いアイデアが常にあります。あなたが作るものはすべて、価値を加えなければなりません。
