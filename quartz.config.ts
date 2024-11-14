@@ -18,6 +18,7 @@ const config: QuartzConfig = {
     baseUrl: "nahen.github.io/nahen-notes/",
     ignorePatterns: ["Private", "Templates", "Daily", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
