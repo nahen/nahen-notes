@@ -1,8 +1,8 @@
 ---
 created: 2024-08-02
-modified: 2024-08-16
+modified: 2024-11-21
 tags:
-  - 💎
+  - 🦾
 aliases: 
 parents: 
 title: 
@@ -46,8 +46,7 @@ Quartz v4において、メモの作成日と最終修正日の両方をペー�
 私はメモの作成日と最終更新日を、[[🧰Obsidian]]のプロパティで管理している。それぞれ`created`と`modified`という独自のプロパティだ。  
 Quartzには独自プロパティを読み取る処理がある。しかし、読み取った独自プロパティは文字列として扱われ、日付とは見なされない。（少なくとも私が読んだ範囲では見当たらなかった）  
 
-そこで、新しく`created`と`modified`プロパティを日付として読み取る処理を追加する。  
-（独自プロパティで管理していなければ、追加しなくてもいい。なのでこの過程は任意としている）
+そこで、新しく`created`と`modified`プロパティを日付として読み取る処理を追加する。（独自プロパティで管理していなければ、追加しなくてもいい。なのでこの過程は任意としている）
 
 `quartz/plugins/transformers/lastmod.ts`にある`markdownPlugins()`のelse if文内に、以下の行を付け加える。
 ```ts
@@ -66,7 +65,7 @@ if (source === "filesystem") {
 
 ## 独自のメタデータを追加する
 ### `definition.ts`に追記
-`quartz/i18n/locales/definition.ts`の`contentMeta`に、新しく`createdDate`と`modifiedDate`というプロパティを追加する。書き加えるのは以下の2行である。
+`quartz/i18n/locales/definition.ts`の`contentMeta`に、新しく`createdDate`と`modifiedDate`というプロパティを追加する。書き加えるのは以下の2行。
 ```ts
 contentMeta: {
   ...
@@ -77,7 +76,7 @@ contentMeta: {
 ```
 
 ### `ja-JP.ts`に追記
-[[💎Quartz v4で作成日と更新日を両方表示する#^locale|Quartzのコンフィグで設定したlocale]]と同じ名前のファイル（私の場合は`ja-JP.ts`）にも、同じように`createdDate`と`modifiedDate`というプロパティを追加する。ここで設定した文言がサイトに表示される。
+[[🦾Quartz v4で作成日と更新日を両方表示する#^locale|Quartzのコンフィグで設定したlocale]]と同じ名前のファイル（私の場合は`ja-JP.ts`）にも、同じように`createdDate`と`modifiedDate`というプロパティを追加する。ここで設定した文言がサイトに表示される。
 
 `quartz/i18n/locales/ja-JP.ts`の`contentMeta`に以下の2行を書き加える。
 ```ts
