@@ -1,13 +1,13 @@
 ---
 created: 2024-03-06
-modified: 2024-10-11
+modified: 2024-12-08
 tags:
   - 🌐
 aliases: 
 parents: "[[🗺️050_英語MOC]]"
 url: https://www.antimoon.com/
 ---
-[[👤Tomasz P. Szynalski]]氏と[[👤Michal Ryszard Wojcik]]氏が提唱している英語学習方法。学校での学習方法と比べて以下の特徴がある。言語学習における直接教授法[^direct_learning]に近い。
+[[👤Tomasz P. Szynalski]]氏と[[👤Michal Ryszard Wojcik]]氏が提唱している英語学習方法。学校での学習方法と比べて以下の特徴がある。言語学習における直接法[^direct_learning]に近い。
 
 [^direct_learning]: 母語を使わず、外国語だけで外国語を学習する方法。たとえば母国語が日本語である人が英語を学ぶときに、和英辞典等を使って日本語で英語を勉強するのではなく、英英辞典等を使って英語で英語を勉強する。
 
