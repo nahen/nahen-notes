@@ -1,11 +1,11 @@
 ---
 created: 2024-10-22
-modified: 2024-11-21
+modified: 2024-12-13
 tags:
-  - 📝
+  - 💎
 aliases: 
 parents: "[[🗺️040_ObsidianMOC]]"
-title: 📝Callout
+title: 
 ---
 Obsidianの機能のひとつ。コードで囲んだ段落を、本筋と分ける形で表示する機能。余談や出典、引用を追加したい時に使うとよいかも。
 
