@@ -55,8 +55,8 @@ export default {
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes}分で読めます`,
-      createdDate: ({ date }) => `作成日: ${date}`,
-      modifiedDate: ({ date }) => `更新日: ${date}`,
+      createdDate: `作成日:`,
+      modifiedDate: `更新日:`,
       linkText: `🔗参考Webサイト`,
       linkPdf: `📑参考PDF`,
     },

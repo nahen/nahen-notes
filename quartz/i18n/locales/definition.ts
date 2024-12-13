@@ -57,8 +57,8 @@ export interface Translation {
     }
     contentMeta: {
       readingTime: (variables: { minutes: number }) => string
-      createdDate: (variables: { date: string }) => string
-      modifiedDate: (variables: { date: string }) => string
+      createdDate: string
+      modifiedDate: string
       linkText: string
       linkPdf: string
     }
