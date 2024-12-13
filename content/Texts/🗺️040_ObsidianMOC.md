@@ -1,6 +1,6 @@
 ---
 created: 2023-07-28
-modified: 2024-11-21
+modified: 2024-12-13
 tags:
   - 🗺️
 aliases: 
@@ -16,7 +16,7 @@ title: 💎040_ObsidianMOC
 - [[💎DataView]]
 - [[🧰Mermaid]]
 - [[🧰Quartz]]
-	- [[🦾Quartz v4で作成日と更新日を両方表示する]]
+	- [[🦾Quartz v4で作成日と更新日を両方表示する（2024年12月版）]]
 	- [[💎Quartzを使う場合、脚注のID名は半角英数字で書くこと]]
 - [[🌐File over app]]
 - [[🗺️デジタル・ガーデン一覧]]
