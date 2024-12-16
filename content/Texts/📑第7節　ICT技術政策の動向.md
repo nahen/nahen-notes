@@ -1,6 +1,6 @@
 ---
 created: 2024-12-05
-modified: 2024-12-05
+modified: 2024-12-16
 tags:
   - 📑
 aliases: 
@@ -55,8 +55,7 @@ Beyond 5Gについては、従来、日本の情報通信産業は、国際的�
 その国際標準化活動支援メニューについては、2024年3月に取りまとめた「[革新的情報通信技術（Beyond 5G（6G））基金事業による国際標準化活動に対する支援の在り方](https://www.soumu.go.jp/menu_news/s-news/01tsushin04_02000152.html)」に基づき運用していく予定である。
 
 >[!note]
->「革新的情報通信技術」なのか「Beyond 5G」なのか、「6G」なのか。  
->[お前どっちだよ、一つに絞れ！](https://youtu.be/GBfzO6-_ff4?si=O3Pv5R-BcOtUaLh-&t=104)
+>「革新的情報通信技術」なのか「Beyond 5G」なのか、「6G」なのか。[お前どっちだよ、一つに絞れ！](https://youtu.be/GBfzO6-_ff4?si=O3Pv5R-BcOtUaLh-&t=104)
 
 また、Beyond 5Gに向けては、産官学が連携・協力した国際標準化・知財活動の戦略的推進を目的とし、そのためには組織・企業の「経営戦略」が重要との理念のもと、2020年12月に「[Beyond 5G新経営戦略センター](https://b5gnbsc.jp/)」を設立し、各種活動を展開している。  
 具体的には、若手人材を対象とした研修活動「[リーダーズフォーラム](https://b5gnbsc.jp/leaders.html)」や企業向け意識啓発・情報発信を目的とした「[新ビジネス戦略セミナー](https://b5gnbsc.jp/event.html)」を実施するとともに、2023年から新たな産業連携活動「[XG Ignite](https://b5gnbsc.jp/xg-ignite.html)」を開始している。
