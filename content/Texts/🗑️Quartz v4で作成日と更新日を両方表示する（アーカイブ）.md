@@ -1,8 +1,8 @@
 ---
 created: 2024-08-02
-modified: 2024-12-13
+modified: 2024-12-16
 tags:
-  - ❌
+  - 🗑️
 aliases: 
 parents: 
 title: 
@@ -76,7 +76,7 @@ contentMeta: {
 ```
 
 ### `ja-JP.ts`に追記
-[[❌Quartz v4で作成日と更新日を両方表示する（アーカイブ）#^locale|Quartzのコンフィグで設定したlocale]]と同じ名前のファイル（私の場合は`ja-JP.ts`）にも、同じように`createdDate`と`modifiedDate`というプロパティを追加する。ここで設定した文言がサイトに表示される。
+[[🗑️Quartz v4で作成日と更新日を両方表示する（アーカイブ）#^locale|Quartzのコンフィグで設定したlocale]]と同じ名前のファイル（私の場合は`ja-JP.ts`）にも、同じように`createdDate`と`modifiedDate`というプロパティを追加する。ここで設定した文言がサイトに表示される。
 
 `quartz/i18n/locales/ja-JP.ts`の`contentMeta`に以下の2行を書き加える。
 ```ts
