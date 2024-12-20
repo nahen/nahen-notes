@@ -1,13 +1,13 @@
 ---
 created: 2024-12-09
-modified: 2024-12-09
+modified: 2024-12-20
 tags:
   - 💭
 aliases: 
 parents: 
 title: 
 ---
-[[📝Incremental Reading]]を知り、[[🧰Anki]]で同じことができないか試している。
+[[📝Incremental Reading]]を知り、[[🧰Anki]]で同じことができないか試している。（[[💭Ankiで本をSNSのタイムラインにする]]）
 ただ、同じような取り組みをした人もネット上に何人かいる。そして、どうもうまくいっていないらしい。
 
 >[!cite] [道草趣向 — 使える読書ログを Anki と Incremental Reading でつくる](https://michiksas.tumblr.com/post/110353652726/%E4%BD%BF%E3%81%88%E3%82%8B%E8%AA%AD%E6%9B%B8%E3%83%AD%E3%82%B0%E3%82%92-anki-%E3%81%A8-incremental-reading-%E3%81%A7%E3%81%A4%E3%81%8F%E3%82%8B)
@@ -21,3 +21,5 @@ title:
 
 >[!cite] [インクリメンタルリーディングについて(2016) - 西尾泰和の外部脳](https://scrapbox.io/nishio/%E3%82%A4%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6(2016))
 > iPhoneでankiで読むと抜き書きが作りにくい。テキストの選択に向いてない
+
+「テキストを抜き出して書く」作業は、確かにiPhone版Ankiには向いてない。いらないテキストを削除するのが精一杯。カードの複製がiPhoneでも楽にできればいいのに。
