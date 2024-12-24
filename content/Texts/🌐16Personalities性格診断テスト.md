@@ -1,6 +1,6 @@
 ---
 created: 2023-07-22
-modified: 2024-08-08
+modified: 2024-12-23
 tags:
   - 🌐
 aliases:
@@ -11,7 +11,7 @@ Neris Analytics社が提供している。**なお本家MBTIとは無関係で�
 あくまでも、話のタネぐらいに見ておくもの。
 
 ## 自分の結果
-16Personalitiesにて年間隔で5回ほど診断。何回やってもINTP。
+16Personalitiesにて年間隔で5回ほど診断。何回やっても[INTP（論理学者）](https://www.16personalities.com/ja/intp%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC)。
 
 ## 参考
 - [無料性格診断テスト、性格タイプ詳細説明、人間関係およびキャリアのアドバイス | 16Personalities](https://www.16personalities.com/ja)

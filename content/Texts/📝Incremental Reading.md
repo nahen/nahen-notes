@@ -1,6 +1,6 @@
 ---
 created: 2024-02-20
-modified: 2024-12-20
+modified: 2024-12-23
 tags:
   - 📝
 aliases:
@@ -81,7 +81,7 @@ flowchart TD
 	- 娯楽はその場を楽しむためのもの
 		- 長く覚えるものではない
 
-[^jonathan]: たとえば、「[IRだと知識の一貫性が保てないのでは？](https://supermemopedia.com/wiki/Incremental_reading_and_interference)」。[「そんな方法で熟考できるの？」](https://supermemopedia.com/wiki/No_space_for_deep_reflection_in_incremental_reading)という意見。[[👤Piotr Wozniak]]氏はそれぞれに「テキストか穴埋め問題に矛盾があったら、取り組み中に違和感を覚えるはずだよ。その時は調査して間違っている方を削除したらいいよ」「むしろ熟考をサポートする仕組みだよ」と回答している。
+[^jonathan]: たとえば、「[IRだと知識の一貫性が保てないのでは？](https://supermemopedia.com/wiki/Incremental_reading_and_interference)」。[「そんな方法で熟考できるの？」](https://supermemopedia.com/wiki/No_space_for_deep_reflection_in_incremental_reading)という意見。[[👤Piotr Wozniak]]氏はそれぞれに「テキストか穴埋め問題に矛盾があったら、勉強中に違和感を覚えるはずだよ。その時は調査して間違っている方を削除したらいいよ」「むしろ熟考をサポートする仕組みだよ」と回答している。
 
 ## 参考
 - [[💭通常の読書とIncremental Readingの違い]]
