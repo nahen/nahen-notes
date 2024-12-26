@@ -1,6 +1,6 @@
 ---
 created: 2024-12-19
-modified: 2024-12-20
+modified: 2024-12-26
 tags:
   - 📝
 aliases:
@@ -8,7 +8,7 @@ aliases:
 parents: 
 title: 📝SRS（Spaced Repetition System）
 ---
-[[📝Spaced Repetition]]（間隔反復法）を取り入れたソフトウェアやアプリの総称。間隔反復法は外国語学習と相性がいいため、その多くが単語帳アプリとして作られる。有名なものに[[🧰Anki]]やDuolingo、Quizletがある。
+[[📝間隔反復法]]を取り入れたソフトウェアやアプリの総称。間隔反復法は外国語学習と相性がいいため、その多くが単語帳アプリとして作られる。有名なものに[[🧰Anki]]やDuolingo、Quizletがある。
 
 ## 最古(?)のSRS: ライトナー・システム
 ![[Leitner_system_animation.gif]][^gif]
