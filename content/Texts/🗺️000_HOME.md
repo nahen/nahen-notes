@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23
-modified: 2024-07-31
+modified: 2025-01-21
 tags: 
 aliases:
   - HOME
@@ -17,6 +17,8 @@ title: 🏠000_HOME
 	- 食材について
 - [[🗺️030_読書MOC]]
 	- 読んだ本のことについて
+- [[🗺️035_学習MOC]]
+	- 勉強や学習そのものについて
 - [[🗺️040_ObsidianMOC]]
 	- Obsidian単体およびプラグインについて
 - [[🗺️050_英語MOC]]
