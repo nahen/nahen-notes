@@ -1,10 +1,10 @@
 ---
 created: 2024-02-14
-modified: 2024-12-06
+modified: 2025-01-21
 tags: 
 aliases:
   - 効果的学習：知識を形成するための20のルール
-parents: 
+parents: "[[🗺️035_学習MOC]]"
 url: https://super-memory.com/articles/20rules.htm
 ---
 [[👤Piotr Wozniak]]氏が提唱する、学んだことを記憶するためのルール集。先頭のルールほど効果的かつ忘れられやすい。  
