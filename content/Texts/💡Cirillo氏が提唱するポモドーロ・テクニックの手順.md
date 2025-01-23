@@ -1,10 +1,10 @@
 ---
 created: 2024-09-07
-modified: 2024-09-07
+modified: 2025-01-23
 tags:
   - 💡
 aliases: 
-parents: 
+parents: "[[📝ポモドーロ・テクニック]]"
 title: 
 ---
 1. 最初に実行するタスクを選ぶ
