@@ -1,6 +1,6 @@
 ---
 created: 2025-01-28
-modified: 2025-01-28
+modified: 2025-01-29
 tags:
   - 💭
 aliases: 
@@ -13,31 +13,40 @@ title:
 
 ハッと驚いた。Incremental Readingの過程と同じだ！
 
-## Progressive Summarizationの工程
+## Progressive Summarizationの過程
 1. 読んでいるWeb記事や書籍のうち、印象に残った部分をメモに残す
 2. 残したメモの中で、重要だと思う箇所を太字にする
 3. 太字にした箇所のうち、さらに重要だと思う箇所にハイライトを引く
 4. ハイライトを引いた箇所で、特に重要だと思う箇所を自分の言葉で要約する
 
-## Incremental Readingの工程
+## Incremental Readingの過程
 1. 読みたいWeb記事や書籍を章や節ごとに分割して、丸ごと[[📝Spaced Repetition System|SRS]]（[[🧰Anki]]やSuperMemo等）に入れる
-2. SRSが表示するテキストを読み、重要だと思う箇所を抽出する
-3. 前回抽出したテキストをSRSが表示したら、さらに抽出する（これ以上削れないところまで）
+2. SRSが表示するテキストを読み、重要だと思う箇所を抽出・要約する
+3. 前回抽出したテキストをSRSが表示したら、さらに抽出・要約する（これ以上削れないところまで）
 4. 限界まで抽出したテキストをSRSが表示したら
 	1. そのテキストをもとに穴埋め問題を作る
 	2. そのテキストに自分の経験・解釈・知見を加える（Incremental Writing？）
 
 ## 双方の違い
 - 自分で本を読むか、機械に本を読まされるか
-	- 怠惰な自分に合わせるのなら、機械に読まされるほうが楽
-- 操縦士（≒パイロット）は自分か、機械か
-	- Progressive Summarizationでは実行するタイミングは自分次第
-	- Incremental ReadingではSRSがタイミングを決めてくれる
-- 決定的な違い: 記憶するか、保管するか
-	- Progressive Summarizationの目的は、読み取ったことを資料として保管すること
-		- 知識は外界に保存したら良くね？　という発想
-			- Forge氏は「記憶よりも認識」と表現している
+	- Progressive Summarizationは自分で本を読む
+		- 実行するタイミングは自分次第
+		- 「後で読む」のまま放置される可能性もある
+	- Incremental Readingは機械（[[📝Spaced Repetition System|SRS]]）に本を読まされる
+		- SRSがタイミングを決めてくれる
+		- 「後で読む」は文字通り「後で読まされる」
+	- 操縦士（≒パイロット）が自分か、機械か
+		- 怠惰に合わせるのなら、機械に任せるほうが楽
+- 情報を保管するか、記憶するか
+	- Progressive Summarizationの目的は、情報を資料として保管すること
+		- 「知識は外界に保存したら良くね？」という発想
+			- Tiago Forte氏は「記憶よりも認識」と表現している
 		- 保管した資料が読みやすかったらありがたいよね
-	- Incremental Readingの目的は、読み取ったことを脳に記憶させること
-		- 知識は脳に覚え込ませたら良くね？　という発想
+	- Incremental Readingの目的は、情報を脳に記憶させること
+		- 「知識は脳に覚えたら良くね？」という発想
 		- 覚えたいことを忘れたくないよね
+
+## 参考
+- Progressive SummarizationとIncremental Readingが似ていることを示唆するコメント
+	- [Article Link: Why Progressive Summarization Must Die — Zettelkasten Forum](https://forum.zettelkasten.de/discussion/comment/8081/#Comment_8081)
+	- [Why Progressive Summarization Must Die : r/Zettelkasten](https://www.reddit.com/r/Zettelkasten/comments/ia3v0b/comment/g1l1ybw/)
