@@ -19,7 +19,7 @@ url: https://fortelabs.com/blog/progressive-summarization-a-practical-technique-
 ### 2. 重要だと思う箇所を太字にする（Bold Passages）
 ![[ps-2.webp]]
 
-### 3. より重要だと思う箇所に==ハイライト==を引く（Highlighted Passages）
+### 3. より重要だと思う箇所にハイライトを引く（Highlighted Passages）
 ![[ps-3.webp]]
 
 ### 4. 自分の言葉で要約する（Mini-Summary）
