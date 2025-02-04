@@ -1,6 +1,6 @@
 ---
 created: 2024-08-22
-modified: 2024-08-23
+modified: 2025-02-04
 tags:
   - 💡
 aliases: 
@@ -9,7 +9,7 @@ url: https://www.antimoon.com/learners/tomasz_szynalski_preinternet.htm
 ---
 [[👤Tomasz P. Szynalski]]氏が言うには、[[🌐Antimoon Method]]はネットが普及する前の時代にやっていた勉強法だという。ネットがない当時のポーランドには、英語を学習に使える教材がとても少なかった。彼はわずかな英語の本と、英語字幕が載った映画のVHS[^vhs]を使って勉強していたらしい。
 
-[^vhs] Video Home System。いわゆるビデオテープのこと。
+[^vhs]: Video Home System。いわゆるビデオテープのこと。
 
 ネットが全世界に広まった今では、外国語を学べるコンテンツは無数にある。しかもそれらの多くは無料だ。
 - テキスト（Webサイト、ブログなど）
