@@ -1,6 +1,6 @@
 ---
 created: 2024-10-23
-modified: 2024-10-24
+modified: 2025-02-11
 tags:
   - 👤
 aliases:
@@ -31,3 +31,4 @@ title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 	- [x.com](https://x.com/timberners_lee)
 	- [w3c.social](https://w3c.social/@timbl)
 - [[📝セマンティックWeb]]
+- [[💬WWW=ハイパーテキスト+TCP+DNS]]
