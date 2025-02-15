@@ -1,13 +1,13 @@
 ---
 created: 2025-01-28
-modified: 2025-01-29
+modified: 2025-02-15
 tags:
   - 💭
 aliases: 
 parents: 
 title: 
 ---
-[[📝Incremental Reading]]を自分なりに実践している最中に、たまたまNick Milo氏が書いた記事のメモ（[[🌐The Potential Side Effects of Progressive Summarization]]）を読み返していた。「あぁ、以前にこんなメモ書いたなあ」と思って眺めていると、Progressive Summarizationの説明文が目に入った。
+[[📝Incremental Reading]]を自分なりに実践している最中に、たまたま[[👤Nick Milo]]氏が書いた記事のメモ（[[🌐The Potential Side Effects of Progressive Summarization]]）を読み返していた。「あぁ、以前にこんなメモ書いたなあ」と思って眺めていると、Progressive Summarizationの説明文が目に入った。
 
 > ==特定の情報を何度も要約してこそぎ落とすことで、情報の中にある重要なエッセンスを抽出する==手法。「①記事にハイライトをつける→②ハイライトの中でも重要なものだけを抽出する→③自分の言葉で要約する→④自分の専門分野に使えそうであれば、専門分野と混ぜ合わせる」という手順。
 
