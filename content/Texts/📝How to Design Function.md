@@ -1,6 +1,6 @@
 ---
 created: 2025-01-27
-modified: 2025-02-03
+modified: 2025-03-03
 tags:
   - 📝
 aliases: 
@@ -11,7 +11,7 @@ title:
 
 ## 関数を設計する手順
 >[!caution]
->コード例にPythonを使っていますが、コードやコメントの書き方が不自然かもしれません。これは、『[CSC120 - How to Design Functions (HtDF)](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdf.html)』で使われている言語（Beginning Student Language）を、むりやりPythonの形に落とし込んでいるためです。ご容赦ください。
+>コード例にPythonを使っていますが、Pythonを日々扱う方からするとコードやコメントの書き方が不自然かもしれません。これは、『[CSC120 - How to Design Functions (HtDF)](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdf.html)』で使われている言語（Beginning Student Language）を、むりやりPythonの形に落とし込んでいるためです。ご容赦ください。
 
 関数は以下の手順に沿って設計する。
 - [[#0. 作る関数を決める]]
