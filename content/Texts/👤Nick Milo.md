@@ -1,6 +1,6 @@
 ---
 created: 2023-09-21
-modified: 2024-07-30
+modified: 2025-02-15
 tags:
   - 👤
 aliases:
@@ -18,6 +18,7 @@ EvernoteでのPKM（個人知識管理）が失敗に終わったという苦い
 
 ## 参考
 - [[🌐My PKM Story]] 
+- [[🌐The Potential Side Effects of Progressive Summarization]]
 - [[🧰NoMa Method]]
 - [Linking Your Thinking](https://www.linkingyourthinking.com/)
 - [Nick Milo（@NickMilo）さん / X](https://twitter.com/nickmilo)
