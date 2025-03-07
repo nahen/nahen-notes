@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "",
-        body: "",
+        header: "IBM Plex Sans JP",
+        body: "IBM Plex Sans JP",
         code: "IBM Plex Mono",
       },
       colors: {
