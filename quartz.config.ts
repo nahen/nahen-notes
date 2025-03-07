@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
@@ -18,13 +18,13 @@ const config: QuartzConfig = {
     baseUrl: "nahen.github.io/nahen-notes/",
     ignorePatterns: ["Private", "Templates", "Daily", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: false,
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "",
-        body: "",
+        header: "IBM Plex Sans JP",
+        body: "IBM Plex Sans JP",
         code: "IBM Plex Mono",
       },
       colors: {

@@ -1,9 +1,9 @@
 ---
 created: 2024-08-23
-modified: 2025-02-04
+modified: 2025-03-03
 tags: 
 aliases: 
 parents: 
 title: ℹ️今何してる？
 ---
-[[📝Incremental Reading]]を[[🧰Anki]]上で実践しようと試行錯誤しています。
+[Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)を学んでいます。

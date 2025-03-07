@@ -1,6 +1,6 @@
 ---
 created: 2024-10-30
-modified: 2024-11-04
+modified: 2025-02-28
 tags:
   - 💭
 aliases: 
@@ -53,7 +53,7 @@ Yes, it's bad. The reason is something I mentioned earlier: writing is thinking.
 
 [^leslie]: Leslie B. Lamport。アメリカの計算機科学者。LaTeXの考案者であり、LaTeXの初期マニュアルを書いたことでも有名。
 
-> If you're thinking without writing, you only think you're thinking.  [^faculty-summit-2014]
+> If you're thinking without writing, you only think you're thinking.  [^faculty-summit-2014]  
 >書くことをせずに考えていたら、頭で考えたことしか考えられない。 
 
 [^faculty-summit-2014]: Microsoftが主催の[Faculty Summit 2014](https://www.microsoft.com/en-us/research/event/faculty-summit-2014/)で、Leslie Lamportが行った講演「[Thinking Above the Code](https://youtu.be/-4Yp3j_jk8Q?si=s1GX8TtmsMiLo6xK)」が出典と思われる。同講演では「If you don't write down your thoughts, you're fooling yourself.（自分の考えを書き出していなければ、自分で自分を騙している）」という言葉も残している。

@@ -1,6 +1,6 @@
 ---
 created: 2024-07-13
-modified: 2024-08-31
+modified: 2025-03-03
 tags:
   - 🌐
   - 🏗️
@@ -66,10 +66,10 @@ dLRN 2015のオープニング基調講演。10月16日にスタンフォード�
 しかしながら、記事を読むと、私が思っていたような見事なサポートにはならないことに気づきます。
 
 %%Why? Because when I link to it it reminds me that many sociologists believe the suicide belt is a result of the White, middle-aged demographics of the American West. Suicide rates in White populations are more than twice those in Black populations and the recent rise in suicide rates (so far) is a purely a White population phenomenon.%%
-なぜか？　リンクしたときに思い出したからです。多くの社会学者は、スーサイド・ベルト（自殺帯）がアメリカ西部の白人・中年の人口統計の結果であると信じていることに。白人の自殺率は黒人の2倍以上で、最近の自殺率の急増は（今のところ）単に白人の間での現象なのです。
+なぜか？　リンクしたときに思い出したからです。多くの社会学者は、スーサイド・ベルト（自殺帯）がアメリカ西部の白人・中年の人口統計の結果だと考えていることに。白人の自殺率は黒人の2倍以上で、最近の自殺率の急増は（今のところ）単に白人の間での現象なのです。
 
 %%This punctures my simple story where more guns = more suicides because the truth is that western states full of White males are going to tend to have both more gun ownership and more suicide.%%
-これは私の単純な物語ーー銃が増えると自殺が増えるーーに穴を開けます。なぜなら真実は、白人男性が多い西部の州は銃の所有と自殺の両方が増える傾向がありそうだ、ということだからです。
+これは私の単純な物語ーー銃が増えると自殺が増えるーーに穴を開けます。なぜなら、白人男性が多い西部の州は銃の所有と自殺の両方が増える傾向がありそうだ、というのが真実だからです。
 
 %%So I write up my link:%%
 そこでリンクをまとめました。
