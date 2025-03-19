@@ -1,6 +1,6 @@
 ---
 created: 2024-07-13
-modified: 2025-03-03
+modified: 2025-03-16
 tags:
   - 🌐
   - 🏗️
@@ -121,4 +121,7 @@ This is my attempt to abstract from this experience something more general about
 
 I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected.
 
+私は次の議論を展開するつもりです。ソーシャルウェブ（ブログ、Twitter、Facebook、フォーラム、Reddit、Instagramの混合物）で支配的な形態は学習と調査の質の低いモデルであり、私たちの種の生存は「会話としてのウェブ」という甘塩っぱい脂を避けられるかにかかっています。そして種がより時代を超え、融合され、反復されるものに、物事を個人性や自己主張の少ないものに、より単独でありながらもつながりを持つものに進められるかにかかっています。
+
 I don’t expect to convince many of you, but I’ll take what I can get.
+皆さんの多くを納得させられるとは思えませんが、できることをやってみます。
