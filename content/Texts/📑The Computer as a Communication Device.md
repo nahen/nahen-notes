@@ -1,6 +1,6 @@
 ---
 created: 2025-04-15
-modified: 2025-04-15
+modified: 2025-04-16
 parents: 
 aliases: 
 tags:
@@ -8,7 +8,7 @@ tags:
 title: The Computer as a Communication Device（コミュニケーション装置としてのコンピュータ）
 url: https://internetat50.com/references/Licklider_Taylor_The-Computer-As-A-Communications-Device.pdf
 ---
-J.C.R.リックライダーとロバート・テイラーが1960年代に共同で執筆したエッセイ。コンピュータをネットワークに接続することで、人間のコミュニケーションに与える影響を予見している。
+[[J.C.R.リックライダー]]と[[ロバート・テイラー]]が1960年代に共同で執筆したエッセイ。コンピュータをネットワークに接続することで、人間のコミュニケーションに与える影響を予見している。
 
 日本語訳としては、山形浩生氏の「[コミュニケーション装置としてのコンピュータ](https://littlefinger.sakura.ne.jp/genpaku.org/Licklider/Licklider_Taylor_The-Computer-As-A-Communications-Device_j.pdf)」がある。
 
