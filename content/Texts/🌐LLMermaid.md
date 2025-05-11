@@ -1,6 +1,6 @@
 ---
 created: 2024-06-04
-modified: 2024-08-08
+modified: 2025-05-03
 tags:
   - 🌐
 aliases: 
@@ -16,8 +16,12 @@ B: Flowchart markdown instructions.
 C: Stable multi step agent.
 
 ```
-[[👤深津貴之]]氏が提案したChatGPTのカスタムプロンプト。複数のステップからなるタスク処理を、自然言語ではなく[[🧰Mermaid]]のダイアグラム（状態遷移図）を使って表現する。  
-ChatGPTの挙動をループ処理や条件分岐で律することができるため、ユーザが細かく指示しなくても、ChatGPTに複雑なタスクを実行させることができる。
+[[👤深津貴之]]氏が提案したLLMのカスタムプロンプト。複数のステップからなるタスク処理を、自然言語ではなく[[🧰Mermaid]]のダイアグラム（状態遷移図）を使って表現する。  
+
+LLMの挙動をループ処理や条件分岐で律することができるため、ユーザが細かく指示しなくても、LLMに複雑なタスクを実行させることができる。
+
+## 作成例
+- [[💭LLMermaid形式のソクラテス式問答法]]
 
 ## 参考
 - [GitHub - fladdict/llmermaid](https://github.com/fladdict/llmermaid)
