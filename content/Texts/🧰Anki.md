@@ -1,6 +1,6 @@
 ---
 created: 2023-08-25
-modified: 2025-02-14
+modified: 2025-05-03
 tags:
   - 🧰
 aliases: 
@@ -25,24 +25,7 @@ AndroidとWeb、Desktopは無料だが、iOS版のみ有料(4,000円)。しか�
 	- 何度も正解するごとに次回の日程が遠くなる
 	- 間違えた場合は初めからやり直し（変更可能）
 
-## 現在のデッキ
-現在のデッキは以下のとおり。
-- [Japanese Prefectures](https://ankiweb.net/shared/info/2639768625)
-	- 既存のデッキ。日本地図の知識がボロボロだったので覚えようとした
-	- 2年使った結果、半数以上の県の場所は記憶できた
-		- 北関東や中部、九州地方は未だにうろ覚えだが……
-- 英単語帳
-	- 英語版逆転裁判で出てきた単語・熟語を載せている
-	- [[🌐Antimoon Method]]を知って以降は、英英辞典の例文を載せている
-- 雑学デッキ
-	- それ以外のものをまとめて単語帳として入れている
-		- 読書で引いたハイライトの穴埋め問題
-	- まだ活用法がわかっていない
-- 読書デッキ
-	- テキスト化したPDFやWeb記事を入れている
-		- [[📝Incremental Reading]]を実践している
-		- 読んだカードは要約したあと、[[💬穴埋め問題は手軽で効果的|穴埋め問題]]にする
-	- [[💭Ankiで本をSNSのタイムラインにする]]
+- [[💭私がAnkiで使ってるデッキ]]
 
 ## 関連項目
 - [Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki/)

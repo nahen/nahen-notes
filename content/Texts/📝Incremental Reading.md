@@ -1,6 +1,6 @@
 ---
 created: 2024-02-20
-modified: 2024-12-25
+modified: 2025-05-03
 tags:
   - 📝
 aliases:
@@ -85,5 +85,6 @@ flowchart TD
 
 ## 参考
 - [[💭通常の読書とIncremental Readingの違い]]
+- [[💭本をAnkiに突っ込む方法]]
 - [How to read a book in an hour? - YouTube](https://www.youtube.com/watch?v=saSFZGS-uCQ)
 	- [[👤Piotr Wozniak]]氏によるIncremental Readingの実演動画（最新）
