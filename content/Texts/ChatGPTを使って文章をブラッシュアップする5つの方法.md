@@ -1,10 +1,8 @@
 ---
 created: 2023-07-28
-modified: 2024-08-08
-tags:
-  - 要約
-  - Wired
-aliases: []
+modified: 2025-05-25
+tags: []
+aliases: 
 ---
 このメモは、[ChatGPTを使って文章をブラッシュアップする5つの方法 | WIRED.jp](https://wired.jp/article/chatgpt-writing-tips/)の要約である。  
 記事の内容は、ChatGPTは類語辞典、発案の協力者、サーベイ、名付け親、添削者として使えるよ、というもの。
