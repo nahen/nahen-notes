@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23
-modified: 2025-01-21
+modified: 2025-05-25
 tags: 
 aliases:
   - HOME
@@ -23,3 +23,5 @@ title: 🏠000_HOME
 	- Obsidian単体およびプラグインについて
 - [[🗺️050_英語MOC]]
 	- 英語・外国語の勉強について
+- [[🗺️055_LLM_MOC]]
+	- 大規模言語モデルについて
