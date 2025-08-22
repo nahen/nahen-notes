@@ -1,6 +1,6 @@
 ---
 created: 2023-09-23
-modified: 2024-10-04
+modified: 2025-08-11
 tags:
   - 👤
 aliases: 
@@ -20,3 +20,4 @@ title: 👤Andy Matuschak（アンディ・マツシャク）
 - [Andy Matuschak](https://andymatuschak.org/)
 - [About these notes](https://notes.andymatuschak.org/About_these_notes)
 - [Andy Matuschak（@andy\_matuschak）さん / X](https://twitter.com/andy_matuschak)
+- [[🌐Pioneers - Andy Matuschak]]
