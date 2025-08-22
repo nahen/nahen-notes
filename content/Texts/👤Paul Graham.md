@@ -1,11 +1,12 @@
 ---
 created: 2024-02-08
-modified: 2024-11-04
+modified: 2025-08-22
 tags:
   - 👤
-aliases: 
-parents: 
+aliases:
+parents:
 title: 👤Paul Graham（ポール・グレアム）
+birth: 1964-11-13
 ---
 ![[ポール・グレアム.png]]
 
