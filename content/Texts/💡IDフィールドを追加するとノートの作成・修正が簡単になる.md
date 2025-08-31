@@ -1,14 +1,14 @@
 ---
 created: 2025-01-20
-modified: 2025-01-21
+modified: 2025-08-29
 tags:
   - 💡
-aliases: 
+aliases:
 parents: "[[🧰Anki]]"
-title: 
+title:
 url: https://ameblo.jp/macgyverisms/entry-12331833830.html#2
 ---
-ExcelやGoogleスプレッドシート上で[[🧰Anki]]の不変ノートを作る場合は、IDフィールドを新しく追加しよう。IDフィールドを用意しておくと、その後のノートの追加・修正が楽になる。
+ExcelやGoogleスプレッドシート上で[[🧰Anki]]の不変ノートを作る場合は、IDフィールドの列を新しく追加しよう。IDフィールドを用意しておくと、その後のノートの追加・修正が楽になる。
 
 ## 通常は最初のフィールドがID代わりになる
 >[!cite] [インポート (Importing) - Anki日本語マニュアル Wiki](https://wikiwiki.jp/rage2050/2.0/Importing#:~:text=%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%88%E6%99%82%E3%80%81Anki%E3%81%AF%E3%83%8E%E3%83%BC%E3%83%88%E3%81%8C%E5%90%8C%E4%B8%80%E3%81%A7%E3%81%82%E3%82%8B%E3%81%8B%E5%90%A6%E3%81%8B%E3%81%AE%E6%B1%BA%E5%AE%9A%E3%81%AB%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%92%E7%94%A8%E3%81%84%E3%81%BE%E3%81%99%E3%80%82)
