@@ -1,6 +1,6 @@
 ---
 created: 2023-07-23
-modified: 2024-07-31
+modified: 2025-09-04
 tags:
   - 🧰
 aliases:
@@ -11,7 +11,7 @@ Toggl社が提供している時間追跡サービスの総称。
 
 ## モバイル版
 Togglのスマホアプリ版は2019年に使った段階では、挙動が不安定で使いづらかった。そのうえスマホも熱くなる。  
-そのため、現在は有志がつくった[[🧰Timery]]を購入して使っている。
+そのため、現在は[[Joe Hribar]]氏がつくった[[🧰Timery]]を購入して使っている。
 
 ## 参考
 - [Toggl: Time Tracking Software, Project Planning & Hiring Tools](https://toggl.com/)
