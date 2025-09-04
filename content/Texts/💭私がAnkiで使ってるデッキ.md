@@ -1,11 +1,11 @@
 ---
 created: 2025-05-03
-modified: 2025-05-03
+modified: 2025-09-02
 tags:
   - 💭
-aliases: 
-parents: 
-title: 
+aliases:
+parents:
+title:
 ---
 現在使っているデッキは以下のとおり。
 - [Japanese Prefectures](https://ankiweb.net/shared/info/2639768625)
@@ -24,3 +24,8 @@ title:
 		- [[📝Incremental Reading]]を実践している
 		- 読んだカードは要約したあと、[[💬穴埋め問題は手軽で効果的|穴埋め問題]]にする
 	- [[💭Ankiで本をSNSのタイムラインにする]]
+	- 2025年9月から、穴埋め問題カードを別の学習デッキに移すようにした（[[💭読書デッキと学習デッキを分ける]]）
+- 学習デッキ
+	- 読書デッキから作った問題を入れる
+		- 穴埋め問題カード
+		- 短答問題カード
