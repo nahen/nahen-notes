@@ -1,6 +1,6 @@
 ---
 created: 2025-09-03
-modified: 2025-09-03
+modified: 2025-09-08
 tags:
   - 👤
 aliases:
@@ -8,7 +8,7 @@ aliases:
 parents:
 birth: 1915-03-11
 death: 1990-06-26
-title: J. C. R. Lickrider（ジョゼフ・カール・ロブネット・リックライダー）
+title: 👤J. C. R. Lickrider（ジョゼフ・カール・ロブネット・リックライダー）
 ---
 ![[lickrider.png]]
 
