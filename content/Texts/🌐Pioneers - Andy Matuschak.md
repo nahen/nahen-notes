@@ -1,15 +1,15 @@
 ---
 created: 2025-08-11
-modified: 2025-08-11
+modified: 2025-09-08
 tags:
   - 🌐
-aliases: 
-parents: 
+aliases:
+parents:
 title: "🌐Pioneers: Andy Matuschak"
 ---
 ![Pioneers: Andy Matuschak - YouTube](https://www.youtube.com/watch?v=bcrcaTuvpBk)
 
->[!tl:dr]
+>[!tldr]
 > - Notionが実施した[[👤Andy Matuschak]]氏へのインタビュー
 > 	- 主張の一部は彼の[[📝Evergreen Note]]で詳しく読むことができる
 > - デジタル世界のUIは画一的すぎる
