@@ -1,9 +1,9 @@
 ---
 created: 2023-07-28
-modified: 2024-12-21
+modified: 2025-10-04
 tags:
   - 🗺️
-aliases: 
+aliases:
 parents: "[[🗺️000_HOME]]"
 title: 💎040_ObsidianMOC
 ---
@@ -22,3 +22,4 @@ title: 💎040_ObsidianMOC
 - [[🌐File over app]]
 - [[🗺️デジタル・ガーデン一覧]]
 - [[💎Callout]]
+- [[💎Obsidian Bases]]
