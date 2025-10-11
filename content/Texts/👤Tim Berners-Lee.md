@@ -1,13 +1,13 @@
 ---
 created: 2024-10-23
-modified: 2025-02-11
+modified: 2025-10-06
 tags:
   - 👤
 aliases:
   - ティム・バーナーズ＝リー
-parents: 
+parents:
 birth: 1955-06-08
-death: 
+death:
 title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 ---
 ![[Tim Berners-Lee.png]]
@@ -18,7 +18,7 @@ title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 
 ウェブの標準化を図るために、1994年に標準化団体である[W3C(World Wide Web Consortium)](https://www.w3.org/)を設立した。また、2009年には[World Wide Web Foundation](https://webfoundation.org/)を設立している。
 
-現在はビッグテックがインターネットを寡占している状況を変えるために、Inrupt[^inrupt]社を立ち上げたり、ユーザがデータを所有することの重要性を多く発言している。
+現在はビッグテックがインターネットを寡占している状況を変えるために、Inrupt[^inrupt]社を立ち上げたり、ユーザがデータを所有することの重要性を多く発言している。[^1]
 
 [^inrupt]: ユーザの個人情報保護技術にまつわるスタートアップ企業。「自分のデータを自分で管理するWeb」を実現するために、[Solid](https://solidproject.org/)なる仕組みの実装・普及を目指しているのだとか。
 
@@ -32,3 +32,5 @@ title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 	- [w3c.social](https://w3c.social/@timbl)
 - [[📝セマンティックWeb]]
 - [[💬WWW=ハイパーテキスト+TCP+DNS]]
+
+[^1]: たとえば、TED Talkの「[ティム・バーナーズ＝リーが示す次のウェブ](https://www.youtube.com/watch?v=OM6XIICm_qo)」。
