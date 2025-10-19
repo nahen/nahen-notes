@@ -1,14 +1,14 @@
 ---
 created: 2024-07-19
-modified: 2024-10-23
+modified: 2025-10-11
 tags:
   - 👤
 aliases:
   - テッド・ネルソン
   - Ted Nelson
-parents: 
+parents:
 birth: 1937-06-17
-death: 
+death:
 title: 👤Theodor Holm Nelson（セオドア・ホルム・ネルソン）
 ---
 ![[テッド・ネルソン.png|400]]
@@ -19,7 +19,7 @@ title: 👤Theodor Holm Nelson（セオドア・ホルム・ネルソン）
 
 [[👤Tim Berners-Lee]]が開発したWorld Wide Webには彼のビジョンを一部実装している。しかし、テッド自身は「ビジョンを単純化しすぎだ」としてWorld Wide Webを嫌っているらしい。[^嫌っている理由]
 
-[^嫌っている理由]: テッド氏のビジョンと比べて、World Wide Webが不完全すぎることが我慢ならなかったのではないか、と私は邪推している。たとえばテッド氏は「情報が双方向でリンクされること」「リンクが消えないこと」「出典が簡単に確認できること」を望んでいたが、World Wide Webのリンクは一方向で消えやすいため、出典が確認できない場合がある。
+[^嫌っている理由]: テッド氏のビジョンと比べて、World Wide Webが不完全すぎることが我慢ならなかったのではないか、と私は邪推している。たとえばテッド氏は「情報が双方向でリンクされること」「リンクが消えないこと」「出典が簡単に確認できること」を望んでいた。しかし、World Wide Webのリンクは一方向で消えやすいため、出典が確認できない場合がある。
 
 ## 参考
 - [Ted Nelson Home Page](http://ted.hyperland.com/)
