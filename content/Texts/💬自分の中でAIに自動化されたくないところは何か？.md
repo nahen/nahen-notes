@@ -1,12 +1,12 @@
 ---
 created: 2023-11-19
-modified: 2024-07-30
+modified: 2025-11-04
 tags:
   - 💬
-aliases: 
-parents: 
+aliases:
+parents:
 ---
->fladdict _—_ 昨日 01:50  
+>fladdict — 2023/11/18 1:50 
 >自分の人生の大切なところは自動化しないのが大事ですねぇ。その違いを自動化するように心がける
 
 上記はSaySayDiscordサーバーでの[[👤深津貴之]]さんの発言。  
