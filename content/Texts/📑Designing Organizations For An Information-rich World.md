@@ -1,33 +1,37 @@
 ---
 created: 2025-11-08
-modified: 2025-11-12
+modified: 2025-11-15
 tags:
   - 📝
 aliases:
 parents:
-title: 📑Designing Organizations For An Information-rich World（情報豊富な世界のための組織設計）
+title: 📑Designing Organizations For An Information-rich World（情報が豊富な世界のための組織設計）
 url: https://knowen-production.s3.amazonaws.com/uploads/attachment/file/2005/DESIGNING%2BORGANIZATIONS%2Bfor%2BInformation-Rich%2Bworld%2B--%2BSImon.pdf
 ---
 Herbert Simon[^1]氏が行った講演を1971年に文書化したもの。講演内容だけでなく、パネルディスカッションでのやりとりや、夕食での座談会のやりとりも載せている。
 
 ## Simon氏の講演
-- 情報が豊富になると、人々の注意力が貴重な資源になる
+- 情報が豊富な世界とは、注意力が足りない世界である
 	- 情報の処理速度より生成速度のほうが圧倒的に速い
-	- 現代でいうアテンション・エコノミー
+		- （現代でいうアテンション・エコノミー）
+	- 『New York Times』の費用はいくらか？
+		- 代金だけでなく読む時間も含めると、その費用は膨大になる
+		- （ショーペンハウアーも『読書について』で似たことを言ってる）
+- 情報処理システムの設計原則は「入力量＞出力量」
+	- 外務省での経験
+		- 情報が遅いから、すばやく届けよう！
+		- 大量の情報を処理する能力・意欲があるか、誰も外務大臣に尋ねなかったらしい
 - 言葉の変化とは、思考と概念の変化である
 	- 「知る」という言葉の意味は変わった
-		- 情報の保存→情報のアクセス
-			- 何を知っているかよりも、誰を知っているか
-		- すべてを覚えようとする試みは無駄に終わる
-			- 影響をすべて予測することは不可能
-- 情報処理システムの基本原則は「入力量＞出力量」
+		- 情報の保存→情報の使用、情報のアクセス
+- 科学とは、大量の生データから秩序・法則を導き出すこと
 	- 事実を多く覚えるよりも実験・観察・理論からパターンやモデルを導く
-		- 化学の基礎知識を利用して、DDTのより環境にやさしい代替物を探す
-- 事前に分析するよりも実際に試そう
-	- コストも低いし確実
-		- [[📝遅延評価勉強法]]みたいな？
-	- ただしアラートも必須
-		- 被害が甚大にならないように
+- 知識の貯蔵庫として世界を扱う
+	- 事前に分析するよりも実際に試そう
+		- コストも低いし信頼度も高い
+			- （[[📝遅延評価勉強法]]みたいな？）
+		- ただしアラートも必須
+	- （[[📝否定の道]]に違反しそう）
 
 ## パネル・ディスカッション
 - Karl Deutsch[^2]氏の反論
@@ -100,7 +104,16 @@ Herbert Simon[^1]氏が行った講演を1971年に文書化したもの。講�
 - ジョン・ウィリアム・ガードナー「waxwork of anachronisms（時代錯誤の蝋人形）」
 	- 1969年4月11日のTIME誌『[Essay: TOWARD A SELF-RENEWING SOCIETY](https://time.com/archive/6636830/essay-toward-a-self-renewing-society/)』
 	- または[1969年3月30日に出たNew York Timesの記事](https://timesmachine.nytimes.com/timesmachine/1969/03/30/90081836.html?pageNumber=211)を参照[^5]
-- 
+- チャールズ・パーシー・スノー[^6]『[二つの文化と科学革命](https://ia600901.us.archive.org/32/items/snow_1959/snow_1959_text.pdf)』
+	- 人文文化と科学文化が対立する60年代イギリスの現状を嘆いたもの
+	- （2025年現在だと、親AI派と反AI派の対立にも当てはまりそう）
+- ジョン・ジョージ・ケメニー[^7]
+- ハーマン・ホレリス[^8]のタビュレーターマシン
+- DDT（ジクロロジフェニルトリクロロエタン）
+	- 効果のある殺虫剤だが残留毒性が強いため、日本では1971年に使用禁止
+	- レイチェル・カーソンが『沈黙の春』で警告した
+- 宇宙検疫
+	- [月から物を持ち帰ってきたときに、病原体などに汚染されているという可能性はあるのでしょうか？ \| 月探査情報ステーション](https://moonstation.jp/faq-items/f703)
 
 [^1]: ハーバート・サイモン。1916〜2001。アメリカの数理社会科学者。「（前略）人間の合理性には限界がある，という限定合理性の考え方を提唱した，として注目される。」（百科事典マイペディア 「サイモン」より）
 
@@ -111,3 +124,9 @@ Herbert Simon[^1]氏が行った講演を1971年に文書化したもの。講�
 [^4]: マーティン・グリーンバーガー。1931〜2020。おそらくアメリカの計算機科学者（Wikipediaなどのまとまった情報源が見当たらず。[訃報](https://neptunesociety.com/obituaries/san-pedro-ca/martin-greenberger-9374411)から憶測）。著書に『[Management and the computer of the future](https://archive.org/details/managementcomput00gree)』。
 
 [^5]: 『In his brutally frank appraisal of American civilization, most state governments emerge as nineteenth-century relics and municipal government as a “wax-work of stiffly preserved anachronisms.” The tax system is out of joint, the courts archaic and unions, corporations, universities and the professions—each enmeshed in “its own impenetrable web of vested interests.”（彼の、アメリカ文明に対する容赦ない率直な評価によると、ほとんどの州政府は19世紀の遺物として現れ、地方自治体は「硬直して維持された時代錯誤の蝋人形」のようである。税制は時代遅れであり、裁判所は古風であり、労働組合、企業、大学、そして専門職はそれぞれ、「それ自身の侵しがたい既得権益の網」に絡め取られている。）』（日本語文はGemini訳）
+
+[^6]: Charles Percy Snow。イギリスの小説家、物理学者。「現代における科学と文学という「二つの文化」の分裂・対立を論じた『二つの文化と科学革命』（1959）で世界的な論争を巻き起こした。」（日本大百科全書(ニッポニカ) 「スノー」）
+
+[^7]: John George Kemeny。1926〜1992。アメリカの数学者。ハンガリー出身。同僚のトーマス・カーツとともに、ダートマスBASIC（プログラミング言語「BASIC」の前身）とダートマス・タイムシェアリング・システムを開発した。
+
+[^8]: Herman Hollerith。1860〜1929。アメリカの発明家。「世界最初の統計機械（パンチカードシステム）の発明者。」（日本大百科全書(ニッポニカ) 「ホレリス」）ちなみに、彼が設立した会社Tabulating Machine Co.は、のちにIBMの前身であるCRT社になる。
