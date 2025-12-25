@@ -1,6 +1,6 @@
 ---
 created: 2025-12-21
-modified: 2025-12-24
+modified: 2025-12-25
 tags:
   - 🎥
 aliases:
@@ -95,7 +95,7 @@ YouTubeでたまたま聞いて、開始10秒で心を掴まれた曲。装填�
 
 [^1]: 日本語訳は私によるもの。
 
-[^2]: 『Doki Doki Takeover!』で楽曲を演奏する直前のサヨリのセリフ。
+[^2]: 『Doki Doki Takeover!』で楽曲を演奏する直前のサヨリのセリフから。[CommunityGame氏のプレイ動画の55:14](https://youtu.be/2aKpl9o7CsU?si=OC-JxJTeVZMpK1l9&t=3314)から確認できる。音楽ゲームのストーリーモードなのに、55分以上もボリュームがあるという恐ろしさ。
 
 [^3]: 0:52付近の"but war's a bit more hardcore"の"hardcore"が一番わかりやすい。発音がアメリカ英語のような「ハーコー」ではなく「アッカー」に近い。フランス語では"h"を発音せず、母音を伸ばすときに舌を巻かないため。
 
