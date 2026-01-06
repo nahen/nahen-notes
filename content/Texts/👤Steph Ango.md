@@ -1,12 +1,12 @@
 ---
 created: 2024-07-08
-modified: 2024-08-08
+modified: 2025-12-30
 tags:
   - 👤
-aliases: 
-parents: 
-birth: 
-death: 
+aliases:
+parents:
+birth:
+death:
 title: 👤Steph Ango（ステフ・アンゴ）
 ---
 ![[Steph Ango.png|300]]
@@ -20,3 +20,4 @@ title: 👤Steph Ango（ステフ・アンゴ）
 ## 参考
 - [x.com - @kepano](https://x.com/kepano)
 - [[🌐File over app]]
+- [[🌐Steph Angoによる年末に振り返る40の質問]]

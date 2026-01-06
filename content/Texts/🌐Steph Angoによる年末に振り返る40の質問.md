@@ -1,11 +1,11 @@
 ---
 created: 2024-12-17
-modified: 2024-12-17
+modified: 2025-12-30
 tags:
   - 🌐
-aliases: 
-parents: 
-title: 
+aliases:
+parents:
+title:
 url: https://stephango.com/40-questions
 ---
 >[!cite] [40 questions to ask yourself every year — Steph Ango](https://stephango.com/40-questions)
@@ -59,3 +59,4 @@ url: https://stephango.com/40-questions
 40. あなたの今年を象徴する言葉は何ですか？
 
 - [[💭Steph Angoの40の質問を使った2024年の振り返り]]
+- [[💭Steph Angoの40の質問を使った2025年の振り返り]]
