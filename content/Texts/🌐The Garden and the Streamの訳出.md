@@ -1,13 +1,14 @@
 ---
 created: 2024-07-13
-modified: 2025-03-16
+modified: 2026-02-19
 tags:
   - 🌐
   - 🏗️
-aliases: 
-parents: 
-title: 
-url: 
+  - 🔄
+aliases:
+parents:
+title:
+url:
 ---
 ## ガーデンとストリーム：テクノパストラル
 %%Opening keynote for dLRN 2015. Delivered October 16th @ Stanford. Actual keynote may have gone on significant tangents…%%
@@ -116,12 +117,12 @@ dLRN 2015のオープニング基調講演。10月16日にスタンフォード�
 %%This experience has radically changed me, to the point I find it hard to communicate with a lot of technologists anymore. It’s like trying to explain literature to someone who has never read a book. You’re asked “So basically a book is just words someone said written down?” And you say no, it’s more than that. But how is it more than that?%%
 この経験は私を根本から変えました。多くの技術者とコミュニケーションを取ることが、もはや難しいとわかるほどです。それは本を読んだことがない人に文学を説明してみるようなものです。「つまり、本って単に誰かが言った言葉を書き留めただけなんだよね？」と尋ねられて、「いや、それ以上のものなんだよ」と答える。でも、それ以上のものというのは？
 
-This is my attempt to abstract from this experience something more general about the way in which we collaborate on the web, and the way in which it is currently very badly out of balance..
+%%This is my attempt to abstract from this experience something more general about the way in which we collaborate on the web, and the way in which it is currently very badly out of balance.%%
 これはこの経験から、私たちがネット上で協力する方法と、現在バランスがとても崩れている方法についてのより大まかな何かしらを取り出す私の試みです。
 
-I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected.
+%%I am going to make the argument that the predominant form of the social web — that amalgam of blogging, Twitter, Facebook, forums, Reddit, Instagram — is an impoverished model for learning and research and that our survival as a species depends on us getting past the sweet, salty fat of “the web as conversation” and on to something more timeless, integrative, iterative, something less personal and less self-assertive, something more solitary yet more connected.%%
 
 私は次の議論を展開するつもりです。ソーシャルウェブ（ブログ、Twitter、Facebook、フォーラム、Reddit、Instagramの混合物）で支配的な形態は学習と調査の質の低いモデルであり、私たちの種の生存は「会話としてのウェブ」という甘塩っぱい脂を避けられるかにかかっています。そして種がより時代を超え、融合され、反復されるものに、物事を個人性や自己主張の少ないものに、より単独でありながらもつながりを持つものに進められるかにかかっています。
 
-I don’t expect to convince many of you, but I’ll take what I can get.
-皆さんの多くを納得させられるとは思えませんが、できることをやってみます。
+%%I don’t expect to convince many of you, but I’ll take what I can get.%%
+多くの方を納得させられるとは思えませんが、できることをやってみます。
