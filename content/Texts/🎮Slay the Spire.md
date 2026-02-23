@@ -1,6 +1,6 @@
 ---
 created: 2026-01-19
-modified: 2026-02-17
+modified: 2026-02-23
 tags:
   - 🎮
 aliases:
@@ -9,7 +9,7 @@ title:
 ---
 ![Slay the Spire Indie World 2018.12.27 - YouTube](https://www.youtube.com/watch?v=vlX2uG8pZJc)
 
-Mega Crit Games[^4]が開発したカードゲーム。2017年にSteamで公開、2019年にNintendo Switchに移植された。「デッキ構築型ローグライク[^2]」という新たなジャンルを打ち立てた金字塔であり、後発ゲームにも影響を与えている[^3]。2026年3月には続編の『Slay the Spire 2』が発売される予定。
+Mega Crit Games[^4]が開発したカードゲーム。2017年にSteamで公開、2019年にNintendo Switchに移植された。「デッキ構築型ローグライク[^2]」という新たなジャンルを打ち立てた金字塔であり、後発ゲームにも影響を与えている[^3]。2026年3月には続編の『Slay the Spire 2』が発売される。
 
 敵を倒してカードを集め、デッキを強化してボスに挑む。「かなり難しいが無理ゲーではない」難易度と、集めたカードがシナジー[^5]を発揮したときの楽しさがウリ。
 
