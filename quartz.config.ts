@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "nahen.github.io/nahen-notes/",
-    ignorePatterns: ["Private", "Templates", "Daily", "Excalidraw", ".obsidian"],
+    ignorePatterns: ["Private", "Templates", "Daily", "Clippings", "Excalidraw", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -92,7 +92,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      //Plugin.CustomOgImages(),
     ],
   },
 }
