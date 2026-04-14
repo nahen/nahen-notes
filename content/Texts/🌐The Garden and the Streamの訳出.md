@@ -1,6 +1,6 @@
 ---
 created: 2024-07-13
-modified: 2026-02-19
+modified: 2026-04-01
 tags:
   - 🌐
   - 🏗️
@@ -9,6 +9,9 @@ aliases:
 parents:
 title:
 url:
+sr-due: 2026-06-02
+sr-interval: 62
+sr-ease: 290
 ---
 ## ガーデンとストリーム：テクノパストラル
 %%Opening keynote for dLRN 2015. Delivered October 16th @ Stanford. Actual keynote may have gone on significant tangents…%%
@@ -126,3 +129,29 @@ dLRN 2015のオープニング基調講演。10月16日にスタンフォード�
 
 %%I don’t expect to convince many of you, but I’ll take what I can get.%%
 多くの方を納得させられるとは思えませんが、できることをやってみます。
+
+## 2 | 「ガーデン」と「ストリーム」
+
+%%To talk about this effectively I’d like to introduce two terms representing different approaches to the Web: The Garden and the Stream. Each of these terms has a history that predates me, but we’re going to tweak the definitions for our own purposes.%%
+このことをわかりやすく伝えるために、ウェブへの違うアプローチを表す二つの用語を紹介します。「ガーデン」と「ストリーム」です。どちらの用語も私よりも長い歴史がありますが、私自身の目的のために少しだけ定義を変えます。
+
+%%The Garden is an old metaphor associated with hypertext. Those familiar with the history will recognize this. The Garden of Forking Paths from the mid-20th century. The concept of the Wiki Gardener from the 1990s. Mark Bernstein’s 1998 essay Hypertext Gardens.%%
+「ガーデン」は、ハイパーテキストに関する古い比喩です。歴史を知っている人はこれがわかるでしょう。20世紀中頃の『The Garden of Forking Paths（邦題：八岐の園）[^tgofp]』。1990年代の「Wiki Gardener[^1]」という概念。マーク・バーンステインが書いた1998年のエッセイ『[Hypertext Gardens](https://www.eastgate.com/garden/Enter.html)』。
+
+[^tgofp]: ホルヘ・ルイス・ボルヘスの短編小説。岩波書店は『伝奇集』で『八岐の園』、惑星と口笛ブックスは『あまたの叉路の庭』と翻訳した。
+
+[^1]: 端的に言えば、Wikiを管理する人。Wikiは誰でも自由に編集できるために、全体が無秩序になることが多かった。そこで、一貫性を保つためにWiki全体を手入れする人が現れた。1990年代とあるのは、Wikiの誕生が1995年だからだろう。
+
+The Garden is the web as topology. The web as space. It’s the integrative web, the iterative web, the web as an arrangement and rearrangement of things to one another.
+
+Things in the Garden don’t collapse to a single set of relations or canonical sequence, and that’s part of what we mean when we say “the web as topology” or the “web as space”. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships
+
+We can see this here in this collage of photos of a bridge in Portland’s Japanese Garden. I don’t know if you can see this, but this is the same bridge from different views at different times of year.
+
+The bridge is a bridge is a bridge — a defined thing with given boundaries and a stated purpose. But the multi-linear nature of the garden means that there is no one right view of the bridge, no one correct approach. The architect creates the bridge, but it is the visitors to the park who create the bridge’s meaning. A good bridge supports many approaches, many views, many seasons, maybe many uses, and the meaning of that bridge will even evolve for the architect over time.
+
+In the Garden, to ask what happened first is trivial at best. The question “Did the bridge come after these trees” in a well-designed garden is meaningless historical trivia. The bridge doesn’t reply to the trees or the trees to the bridge. They are related to one another in a relatively timeless way.
+
+This is true of everything in the garden. Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden. We create the garden as a sort of _experience generator_, capable of infinite expression and meaning.
+
+The Garden is what I was doing in the wiki as I added the Gun Control articles, building out a network of often conflicting information into a web that can generate insights, iterating it, allowing that to grow into something bigger than a single event, a single narrative, or single meaning.
