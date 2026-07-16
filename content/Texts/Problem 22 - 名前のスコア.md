@@ -1,13 +1,13 @@
 ---
 created: 2026-05-12
-modified: 2026-05-12
+modified: 2026-07-08
 tags:
   - 📝
 aliases:
 parents: "[[📝Project Euler]]"
 title:
 ---
->[!memo] [Problem 22](http://projecteuler.net/problem=22) 「名前のスコア」
+s>[!memo] [Problem 22](http://projecteuler.net/problem=22) 「名前のスコア」
 > 5000個以上の名前が書かれている46Kのテキストファイル [names.txt](https://projecteuler.net/project/resources/p022_names.txt) を用いる. まずアルファベット順にソートせよ.  
 > のち, 各名前についてアルファベットに値を割り振り, リスト中の出現順の数と掛け合わせることで, 名前のスコアを計算する.
 >

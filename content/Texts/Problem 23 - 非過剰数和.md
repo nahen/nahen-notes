@@ -1,6 +1,6 @@
 ---
 created: 2026-05-14
-modified: 2026-05-14
+modified: 2026-07-09
 tags:
   - 📝
 aliases:
@@ -85,11 +85,56 @@ title:
 ```
 
 ## LLMによる改善案
-- 
+- アルゴリズム自体は変わっていない
+- `sum-abundant`のコードを修正
+	- `a-values`（0/1が入る）を`a-flags`（true/falseが入る）に変更
+	- `(drop loi idx)`を使わない形に変更
+		- ここで処理時間がかかっている
 
 ```racket
+(define (non-abundant-sums)
+  (define limit 28123)
+  
+  ;; sum-proper-divisors : -> (vectorof Integer)
+  ;; 1〜limitまでの各数で、真の約数の和をそれぞれ求める
+  (define sum-proper-divisors
+    ;; 1〜limitまでの配列を作る
+    (let ([d-values (make-vector (add1 limit) 0)])
+      (for* ([i (in-range 1 (add1 (quotient limit 2)))]
+             [j (in-range (* i 2) (add1 limit) i)])
+        (vector-set! d-values j (+ (vector-ref d-values j) i)))
+      d-values))
+  
+  ;; list-abundant: void -> (listof Integer)
+  ;; 真の約数の和の配列から、過剰数のリストを作る
+  (define list-abundant
+    (for/list ([val sum-proper-divisors]
+               [i (in-naturals 0)]
+               #:when (> val i))
+      i))
+  
+  ;; sum-abundant: -> Integer
+  ;; 過剰数のリストから、2つの過剰数の和を作る
+  (define (sum-abundant)
+    (define abundants (list->vector list-abundant))
+    (define len (vector-length abundants))
+    ;; 2つの過剰数の和で生成できる数を判定する配列(indexがその数)
+    (define a-flags (make-vector (add1 limit) #f))
+    
+    (for ([i (in-range len)]
+          #:do [(define ai (vector-ref abundants i))])
+      (for ([j (in-range i len)]
+            #:do [(define sum (+ ai (vector-ref abundants j)))]
+            #:break  (> sum limit))
+        (vector-set! a-flags sum #t)))
+    
+    (for/sum ([flag a-flags]
+              [i (in-naturals 0)]
+              #:when flag)
+      i))
+  
+  (define sum-all (quotient (* limit (+ limit 1)) 2))
+  (define sum-abun (sum-abundant))
 
+  (- sum-all sum-abun))
 ```
-
-## 参考
-- 
