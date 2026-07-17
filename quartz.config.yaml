@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: ja-JP
-  baseUrl: nahen.github.io
+  baseUrl: nahen.github.io/nahen-notes
   ignorePatterns:
     - Private
     - Daily
