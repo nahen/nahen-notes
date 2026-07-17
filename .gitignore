@@ -11,3 +11,9 @@ private/
 replit.nix
 .quartz/
 quartz/cli/tui/dist/
+content/Assets/Private
+content/Private
+content/Daily
+content/Template
+content/Excalidraw
+content/*.base
