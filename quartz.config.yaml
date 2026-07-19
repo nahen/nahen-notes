@@ -30,8 +30,8 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#1a1a1a"
         dark: "#1a1a1a"
-        secondary: "#386C5F"
-        tertiary: "#84a59d"
+        secondary: "#00754B"
+        tertiary: "#006DA6"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
@@ -40,8 +40,8 @@ configuration:
         gray: "#646464"
         darkgray: "#f2f2f2"
         dark: "#f2f2f2"
-        secondary: "#659C82"
-        tertiary: "#84a59d"
+        secondary: "#85B886"
+        tertiary: "#0099E7"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
@@ -189,6 +189,9 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+    options:
+      showReadingTime: false
+      showComma: true
   - source: github:quartz-community/tag-list
     enabled: false
     layout:

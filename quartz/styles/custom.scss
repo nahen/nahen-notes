@@ -1,3 +1,25 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+tbody, li, p {
+    line-height: 1.75rem;
+}
+
+.explorer-content ul li > a,
+.explorer-content .folder-container div > a,
+.explorer-content .folder-container div > button span {
+    display: block;
+    line-height: 1.5;
+    padding-top: 0.18rem;
+    padding-bottom: 0.18rem;
+    overflow-wrap: anywhere;
+}
+
+.backlinks > ul.overflow > li > a {
+    display: block;
+    line-height: 1.5;
+    padding-top: 0.18rem;
+    padding-bottom: 0.18rem;
+    overflow-wrap: anywhere;
+}
