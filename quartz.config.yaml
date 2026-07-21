@@ -185,7 +185,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -254,8 +254,11 @@ plugins:
       includeAll: false
       includedProperties:
         - description
+        - created
+        - modified
         - tags
         - aliases
+        - url
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

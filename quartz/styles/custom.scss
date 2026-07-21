@@ -8,18 +8,12 @@ tbody, li, p {
 
 .explorer-content ul li > a,
 .explorer-content .folder-container div > a,
-.explorer-content .folder-container div > button span {
+.explorer-content .folder-container div > button span,
+.backlinks > ul > li > a,
+.toc ul li > a {
     display: block;
-    line-height: 1.5;
-    padding-top: 0.18rem;
-    padding-bottom: 0.18rem;
-    overflow-wrap: anywhere;
-}
-
-.backlinks > ul.overflow > li > a {
-    display: block;
-    line-height: 1.5;
-    padding-top: 0.18rem;
-    padding-bottom: 0.18rem;
+    line-height: 1.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
     overflow-wrap: anywhere;
 }
