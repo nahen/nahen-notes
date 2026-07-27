@@ -1,6 +1,6 @@
 ---
 created: 2024-07-19
-modified: 2025-10-11
+modified: 2026-07-27
 tags:
   - 👤
 aliases:
@@ -11,7 +11,7 @@ birth: 1937-06-17
 death:
 title: 👤Theodor Holm Nelson（セオドア・ホルム・ネルソン）
 ---
-![[テッド・ネルソン.png|400]]
+![[テッド・ネルソン.png|300]][^1]
 
 テッド・ネルソン。アメリカの社会・情報学者、思想家。現在はオックスフォード大学の客員教授。
 
@@ -24,3 +24,5 @@ title: 👤Theodor Holm Nelson（セオドア・ホルム・ネルソン）
 ## 参考
 - [Ted Nelson Home Page](http://ted.hyperland.com/)
 - [TheTedNelson - YouTube](https://www.youtube.com/user/TheTedNelson)
+
+[^1]: <a href="https://commons.wikimedia.org/wiki/File:Ted_Nelson_cropped.jpg">Dgies</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons

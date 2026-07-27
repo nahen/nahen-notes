@@ -1,6 +1,6 @@
 ---
 created: 2024-02-08
-modified: 2025-08-22
+modified: 2026-07-27
 tags:
   - 👤
 aliases:
@@ -8,7 +8,7 @@ parents:
 title: 👤Paul Graham（ポール・グレアム）
 birth: 1964-11-13
 ---
-![[ポール・グレアム.png]]
+![[ポール・グレアム.png]][^1]
 
 アメリカのプログラマーでありエッセイスト。ソフトウェア会社ViawebおよびベンチャーファンドのY Combinatorの創業者。
 
@@ -24,3 +24,5 @@ birth: 1964-11-13
 - [[🌐Writes and Write-Nots]]
 
 [^when]: どこでこのエッセイに触れたのかは、記憶がハッキリしない。おそらく昔のネット上の友人らとMSN Messengerでチャットをしていたときだと思う。何かの拍子でこのエッセイのURLが貼られた。誰が貼ったのかはもう覚えていない。
+
+[^1]: <a href="https://commons.wikimedia.org/wiki/File:Paulgraham_240x320.jpg">Crédit photo: Sarah Harlin</a>, Public domain, via Wikimedia Commons

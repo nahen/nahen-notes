@@ -1,6 +1,6 @@
 ---
 created: 2023-08-07
-modified: 2025-10-30
+modified: 2026-07-27
 tags:
   - "#👤"
 birth: 1918-05-11
@@ -11,7 +11,7 @@ aliases:
   - リチャード・P・ファインマン
 title: 👤Richard Phillips Feynman（リチャード・フィリップス・ファインマン）
 ---
-![[リチャード・ファインマン.png]]
+![[リチャード・ファインマン.png|300]][^1]
 
 リチャード・フィリップス・ファインマン。アメリカの物理学者。  
 素粒子の振る舞いを図形で表した[ファインマン・ダイアグラム](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%82%B0%E3%83%A9%E3%83%A0)を考案したことで有名。また、ロスアラモス研究所で原子爆弾の開発にも尽力した。
@@ -37,3 +37,5 @@ title: 👤Richard Phillips Feynman（リチャード・フィリップス・フ
 - ご冗談でしょう、ファインマンさん
 - 困ります、ファインマンさん
 - [[📚聞かせてよ、ファインマンさん]]
+
+[^1]: <a href="https://commons.wikimedia.org/wiki/File:RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg">Copyright Tamiko Thiel 1984</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons

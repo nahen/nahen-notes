@@ -1,6 +1,6 @@
 ---
 created: 2025-12-09
-modified: 2025-12-09
+modified: 2026-07-27
 tags:
   - 👤
 aliases:
@@ -9,7 +9,7 @@ birth: 1916-06-15
 death: 2001-02-09
 title: 👤Herbert Simon（ハーバート・サイモン）
 ---
-![[Herbert Simon.png|400]]
+![[Herbert Simon.png|300]][^3]
 
 アメリカの政治学者・計算機科学者・経済学者。後述するノーベル経済学賞の受賞から経済学者として見られがちだが、コンピュータ分野にも貢献している。
 
@@ -27,3 +27,5 @@ title: 👤Herbert Simon（ハーバート・サイモン）
 [^1]: スウェーデン国立銀行が創立300周年を記念して設立した賞。毎年、経済学で功績を残した人物に贈られる。 正式名称は「アルフレッド・ノーベル記念スウェーデン国立銀行経済学賞」。ノーベルと冠しているが、ノーベル賞とは無関係。
 
 [^2]: アメリカ計算機学会(ACM)が毎年、コンピュータ分野で功績を残した人物に贈る賞。名称は計算機科学者のアラン・チューリングから。
+
+[^3]: <a href="https://commons.wikimedia.org/wiki/File:Herbert_Simon,_RIT_NandE_Vol13Num11_1981_Mar19_Complete.jpg">Rochester Institute of Technology</a>, Public domain, via Wikimedia Commons

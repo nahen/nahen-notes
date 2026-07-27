@@ -1,6 +1,6 @@
 ---
 created: 2025-09-03
-modified: 2025-09-08
+modified: 2026-07-27
 tags:
   - 👤
 aliases:
@@ -10,7 +10,7 @@ birth: 1915-03-11
 death: 1990-06-26
 title: 👤J. C. R. Lickrider（ジョゼフ・カール・ロブネット・リックライダー）
 ---
-![[lickrider.png]]
+![[lickrider.png]][^1]
 
 アメリカの音響心理学者、のちにコンピュータ科学者。アメリカ国防総省（ARPA）におけるコンピュータ研究部門の部長として活躍し、その成果としてARPANETが生まれた。
 
@@ -20,3 +20,5 @@ title: 👤J. C. R. Lickrider（ジョゼフ・カール・ロブネット・リ
 
 ## 参考
 - [連載：インターネット・サイエンスの歴史人物館（4）J. C. R. リックライダー \| 情報通信（ICT） \| スマートグリッドフォーラム](https://sgforum.impress.co.jp/article/811)
+
+[^1]: <a href="https://commons.wikimedia.org/wiki/File:J._C._R._Licklider.jpg">See page for author</a>, Public domain, via Wikimedia Commons

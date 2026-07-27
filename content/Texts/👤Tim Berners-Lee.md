@@ -1,6 +1,6 @@
 ---
 created: 2024-10-23
-modified: 2025-10-06
+modified: 2026-07-27
 tags:
   - 👤
 aliases:
@@ -10,7 +10,7 @@ birth: 1955-06-08
 death:
 title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 ---
-![[Tim Berners-Lee.png]]
+![[Tim Berners-Lee.png|300]][^2]
 
 イギリスのコンピュータ科学者。[[World Wide Web]]を考案したことで、[[👤Theodor Holm Nelson]]の[[ハイパーテキスト]]を現実にした人物。他にもURL、HTTP、HTMLを考案した。2004年にはエリザベス女王からナイトの称号を授与されている。[^knight]
 
@@ -34,3 +34,5 @@ title: 👤Tim Berners-Lee（ティム・バーナーズ＝リー）
 - [[💬WWW=ハイパーテキスト+TCP+DNS]]
 
 [^1]: たとえば、TED Talkの「[ティム・バーナーズ＝リーが示す次のウェブ](https://www.youtube.com/watch?v=OM6XIICm_qo)」。
+
+[^2]: <a href="https://commons.wikimedia.org/wiki/File:LS3_4919_(cropped).jpg">Web Summit</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons
