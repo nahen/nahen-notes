@@ -1,9 +1,8 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-
 tbody, li, p {
-    line-height: 1.75rem;
+    line-height: 1.85rem;
 }
 
 .explorer-content ul li > a,
@@ -16,4 +15,9 @@ tbody, li, p {
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
     overflow-wrap: anywhere;
+}
+
+.page > #quartz-body .sidebar {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
 }
