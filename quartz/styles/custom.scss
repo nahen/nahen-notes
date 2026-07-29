@@ -1,8 +1,17 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+tbody, p:not(.callout p, .footnotes p, li > p, footer p) {
+    margin-block: 2rem;
+}
+
 tbody, li, p {
     line-height: 1.85rem;
+}
+
+article sup {
+    line-height: normal;
 }
 
 .explorer-content ul li > a,
