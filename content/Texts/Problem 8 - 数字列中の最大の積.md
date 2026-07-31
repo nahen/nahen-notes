@@ -1,9 +1,9 @@
 ---
 created: 2026-04-02
-modified: 2026-04-06
+modified: 2026-07-31
 tags:
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 8](https://projecteuler.net/problem=8) 「数字列中の最大の積」

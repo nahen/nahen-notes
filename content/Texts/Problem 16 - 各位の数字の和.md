@@ -1,10 +1,10 @@
 ---
 created: 2026-04-23
-modified: 2026-04-23
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 16](http://projecteuler.net/problem=16) 「各位の数字の和」

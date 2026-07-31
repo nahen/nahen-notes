@@ -1,10 +1,10 @@
 ---
 created: 2026-05-28
-modified: 2026-05-28
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 28](http://projecteuler.net/problem=28) 「螺旋状に並んだ数の対角線」

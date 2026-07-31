@@ -1,10 +1,10 @@
 ---
 created: 2026-06-12
-modified: 2026-06-15
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 34](http://projecteuler.net/problem=34) 「桁の階乗」

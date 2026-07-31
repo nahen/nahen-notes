@@ -1,10 +1,10 @@
 ---
 created: 2026-06-03
-modified: 2026-06-04
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 30](http://projecteuler.net/problem=30) 「各桁の5乗」

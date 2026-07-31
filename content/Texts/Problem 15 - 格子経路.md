@@ -1,10 +1,10 @@
 ---
 created: 2026-04-21
-modified: 2026-04-21
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 15](http://projecteuler.net/problem=15) 「格子経路」

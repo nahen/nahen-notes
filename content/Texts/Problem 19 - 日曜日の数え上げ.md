@@ -1,10 +1,10 @@
 ---
-modified: 2026-05-02
+modified: 2026-07-31
 created: 2026-05-02
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 19](http://projecteuler.net/problem=19) 「日曜日の数え上げ」

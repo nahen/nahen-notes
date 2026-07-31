@@ -1,7 +1,7 @@
 ---
 created: 2023-07-23
-modified: 2025-05-25
-tags: 
+modified: 2026-07-31
+tags:
 aliases:
   - HOME
 title: 🏠000_HOME
@@ -21,6 +21,8 @@ title: 🏠000_HOME
 	- 勉強や学習そのものについて
 - [[🗺️040_ObsidianMOC]]
 	- Obsidian単体およびプラグインについて
+- [[🗺️045_プログラミングMOC]]
+	- プログラミングについて
 - [[🗺️050_英語MOC]]
 	- 英語・外国語の勉強について
 - [[🗺️055_LLM_MOC]]

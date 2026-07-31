@@ -1,10 +1,10 @@
 ---
 created: 2026-04-10
-modified: 2026-04-10
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 11](http://projecteuler.net/problem=11) 「格子内の最大の積」

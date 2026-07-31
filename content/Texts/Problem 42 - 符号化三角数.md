@@ -1,10 +1,10 @@
 ---
 created: 2026-07-08
-modified: 2026-07-09
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 42](http://projecteuler.net/problem=42) 「符号化三角数」

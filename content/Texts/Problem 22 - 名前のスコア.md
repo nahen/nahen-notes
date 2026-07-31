@@ -1,10 +1,10 @@
 ---
 created: 2026-05-12
-modified: 2026-07-08
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 s>[!memo] [Problem 22](http://projecteuler.net/problem=22) 「名前のスコア」

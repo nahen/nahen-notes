@@ -1,10 +1,10 @@
 ---
-modified: 2026-04-06
+modified: 2026-07-31
 created: 2026-04-06
 tags:
   - 
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 9](https://projecteuler.net/problem=9) 「特別なピタゴラス数」

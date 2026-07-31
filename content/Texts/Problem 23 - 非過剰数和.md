@@ -1,10 +1,10 @@
 ---
 created: 2026-05-14
-modified: 2026-07-09
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 23](http://projecteuler.net/problem=23) 「非過剰数和」

@@ -1,10 +1,10 @@
 ---
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 45](http://projecteuler.net/problem=45) 「三角数, 五角数, 六角数」

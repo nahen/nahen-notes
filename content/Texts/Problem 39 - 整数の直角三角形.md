@@ -1,10 +1,10 @@
 ---
 created: 2026-06-29
-modified: 2026-06-29
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 39](http://projecteuler.net/problem=39) 「整数の直角三角形」

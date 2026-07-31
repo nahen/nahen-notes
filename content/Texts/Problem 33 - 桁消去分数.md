@@ -1,10 +1,10 @@
 ---
 created: 2026-06-10
-modified: 2026-06-30
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 33](http://projecteuler.net/problem=33) 「桁消去分数」

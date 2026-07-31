@@ -1,10 +1,10 @@
 ---
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 17](http://projecteuler.net/problem=17) 「数字の文字数」

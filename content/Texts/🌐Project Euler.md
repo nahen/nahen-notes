@@ -1,16 +1,16 @@
 ---
 created: 2026-04-05
-modified: 2026-07-09
+modified: 2026-07-31
 tags:
-  - 📝
+  - 🌐
 aliases:
 parents:
-title: 📝Project Euler（プロジェクト・オイラー）
+title: 🌐Project Euler（プロジェクト・オイラー）
 url: https://projecteuler.net/
 ---
 Colin Hughes氏が開設したプログラミングの問題集サイト。名前の由来は数学者のレオンハルト・オイラー。
 
-Project Eulerの問題は数学的な解法を求めるものが多い。そのため、プログラミング言語や競技プログラミング[^1]の知識だけでなく、数学の知識も求められる。たとえば、[Problem 6「二乗和の差」](https://odz.sakura.ne.jp/projecteuler/?Problem+6) は数百回のループで解けるが、高校数学で習う公式を使うとアルゴリズムがかなり効率的になる。
+Project Eulerの問題は数学的な解法を求めるものが多い。そのため、プログラミング言語や競技プログラミング[^1]の知識だけでなく、数学の知識も求められる。たとえば、[[Problem 6 - 二乗和の差]]は数百回のループで解けるが、高校数学で習う公式を使うとアルゴリズムがかなり効率的になる。
 
 ## 問題
 - 桁操作

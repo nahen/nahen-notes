@@ -1,10 +1,10 @@
 ---
 created: 2026-06-25
-modified: 2026-06-29
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 38](http://projecteuler.net/problem=38) 「パンデジタル倍数」

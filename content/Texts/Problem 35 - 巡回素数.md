@@ -1,10 +1,10 @@
 ---
 created: 2026-06-15
-modified: 2026-06-16
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 35](http://projecteuler.net/problem=35) 「巡回素数」

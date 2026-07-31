@@ -1,10 +1,10 @@
 ---
 created: 2026-06-05
-modified: 2026-06-05
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 31](http://projecteuler.net/problem=31) 「硬貨の和」

@@ -1,10 +1,10 @@
 ---
 created: 2026-04-15
-modified: 2026-04-15
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 13](http://projecteuler.net/problem=13) 「大きな数の足し算」

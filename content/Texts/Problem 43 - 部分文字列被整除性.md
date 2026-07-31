@@ -1,10 +1,10 @@
 ---
 created: 2026-07-14
-modified: 2026-07-15
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 43](http://projecteuler.net/problem=43) 「部分文字列被整除性」

@@ -1,10 +1,10 @@
 ---
 created: 2026-07-22
-modified: 2026-07-24
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 44](http://projecteuler.net/problem=44) 「五角数」

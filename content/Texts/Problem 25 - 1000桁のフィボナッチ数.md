@@ -1,10 +1,10 @@
 ---
 created: 2026-05-20
-modified: 2026-05-21
+modified: 2026-07-31
 tags:
   - 📝
 aliases:
-parents: "[[📝Project Euler]]"
+parents: "[[🌐Project Euler]]"
 title:
 ---
 >[!memo] [Problem 25](http://projecteuler.net/problem=25) 「1000桁のフィボナッチ数」
