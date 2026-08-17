@@ -1,6 +1,6 @@
 ---
 created: 2026-07-30
-modified: 2026-07-31
+modified: 2026-08-04
 tags:
   - 📝
 aliases:
@@ -10,14 +10,14 @@ title:
 >[!memo] [Problem 46](http://projecteuler.net/problem=46) 「もうひとつのゴールドバッハの予想」
 > Christian Goldbachは全ての奇合成数は平方数の2倍と素数の和で表せると予想した.
 > $$
-> \begin{eqnarray}
+> \begin{align}
 > 9 = 7 + 2\times1^2\\
 > 15 = 7 + 2\times2^2\\
 > 21 = 3 + 2\times3^2\\
 > 25 = 7 + 2\times3^2\\
 > 27 = 19 + 2\times2^2\\
 > 33 = 31 + 2\times1^2
-> \end{eqnarray}
+> \end{align}
 > $$
 > 後に, この予想は誤りであることが分かった.
 > 

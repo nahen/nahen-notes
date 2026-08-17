@@ -2,8 +2,8 @@
 
 // put your custom CSS here!
 
-tbody, p:not(.callout p, .footnotes p, li > p, footer p) {
-    margin-block: 2rem;
+tbody, article p:not(.callout p, .footnotes p) {
+    margin-block: 1.5rem;
 }
 
 tbody, li, p {
@@ -23,7 +23,6 @@ article sup {
     line-height: 1.4rem;
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
-    overflow-wrap: anywhere;
 }
 
 .page > #quartz-body .sidebar {
