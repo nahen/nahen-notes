@@ -20,6 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
+          token: ${{ secrets.OBSIDIAN_VAULT_TOKEN }}
+          submodules: recursive
           fetch-depth: 0 # Fetch all history for git info
       - uses: actions/setup-node@v7
         with:
