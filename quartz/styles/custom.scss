@@ -26,6 +26,8 @@ article sup {
 }
 
 .page > #quartz-body .sidebar {
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
+    @media all and not ($mobile) {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
 }
