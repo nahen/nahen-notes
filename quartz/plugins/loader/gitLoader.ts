@@ -398,7 +398,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       }
       execSync("npm run build", {
         cwd: pluginDir,
-        stdio: verbose ? "inherit" : "pipe",
+        stdio: "pipe",
         timeout: 120_000,
       })
     }
