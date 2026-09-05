@@ -380,6 +380,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     return
   }
 
+  let phase = "installing dependencies"
   try {
     const shouldBuild = needsBuild(pluginDir)
 
@@ -393,6 +394,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     })
 
     if (shouldBuild) {
+      phase = "building"
       if (verbose) {
         console.log(styleText("cyan", `→`), `${name}: building...`)
       }
@@ -401,14 +403,20 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
         stdio: "pipe",
         timeout: 120_000,
       })
+
+      if (!fs.existsSync(path.join(pluginDir, "dist", "index.js"))) {
+        throw new Error("npm run build completed without producing dist/index.js")
+      }
     }
 
+    phase = "pruning dependencies"
     execSync("npm prune --omit=dev", {
       cwd: pluginDir,
-      stdio: verbose ? "inherit" : "pipe",
+      stdio: "pipe",
       timeout: 60_000,
     })
 
+    phase = "linking peer dependencies"
     linkPeerDependencies(pluginDir)
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error)
@@ -424,7 +432,7 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
       : ""
     console.error(
       styleText("red", `✗`),
-      `${name}: post-install build failed: ${message}${commandOutput ? `\n${commandOutput}` : ""}`,
+      `${name}: ${phase} failed: ${message}${commandOutput ? `\n${commandOutput}` : ""}`,
     )
     throw new Error(`Failed to build plugin ${name}: ${message}`)
   }
