@@ -53,35 +53,19 @@ async function buildPluginAsync(pluginDir, name) {
     return true
   }
 
-  let phase = "installing dependencies"
   try {
     const skipBuild = !needsBuild(pluginDir)
     console.log(styleText("cyan", `  → ${name}: installing dependencies...`))
     await execAsync("npm install --ignore-scripts", { cwd: pluginDir })
     if (!skipBuild) {
-      phase = "building"
       console.log(styleText("cyan", `  → ${name}: building...`))
       await execAsync("npm run build", { cwd: pluginDir })
-
-      if (!fs.existsSync(path.join(pluginDir, "dist", "index.js"))) {
-        throw new Error("npm run build completed without producing dist/index.js")
-      }
     }
-    phase = "pruning dependencies"
     await execAsync("npm prune --omit=dev", { cwd: pluginDir })
-    phase = "linking peer dependencies"
     linkPeerPlugins(pluginDir)
     return true
   } catch (error) {
-    const commandOutput = [error?.stdout, error?.stderr]
-      .filter(Boolean)
-      .map((output) => output.toString().trim())
-      .filter(Boolean)
-      .join("\n")
-    console.log(
-      styleText("red", `  ✗ ${name}: ${phase} failed: ${error?.message ?? String(error)}`),
-    )
-    if (commandOutput) console.log(commandOutput)
+    console.log(styleText("red", `  ✗ ${name}: build failed`))
     return false
   }
 }
