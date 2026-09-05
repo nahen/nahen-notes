@@ -412,7 +412,20 @@ function buildInstalledPlugin(pluginDir: string, name: string, verbose?: boolean
     linkPeerDependencies(pluginDir)
   } catch (error) {
     const message = error instanceof Error ? error.message : String(error)
-    console.error(styleText("red", `✗`), `${name}: post-install build failed: ${message}`)
+    const commandOutput = error instanceof Error
+      ? [
+          (error as NodeJS.ErrnoException & { stdout?: Buffer | string }).stdout,
+          (error as NodeJS.ErrnoException & { stderr?: Buffer | string }).stderr,
+        ]
+          .filter(Boolean)
+          .map((output) => output!.toString().trim())
+          .filter(Boolean)
+          .join("\n")
+      : ""
+    console.error(
+      styleText("red", `✗`),
+      `${name}: post-install build failed: ${message}${commandOutput ? `\n${commandOutput}` : ""}`,
+    )
     throw new Error(`Failed to build plugin ${name}: ${message}`)
   }
 }
