@@ -24,6 +24,12 @@ article sup {
     padding-top: 0.2rem;
     padding-bottom: 0.2rem;
 }
+ 
+.explorer-content ul li > a {
+    @media all and ($mobile) {
+        padding-right: 1rem;
+    }
+}
 
 .page > #quartz-body .sidebar {
     @media all and not ($mobile) {
@@ -31,11 +37,12 @@ article sup {
         padding-right: 2.5rem;
     }
 }
-
+/* 
 p, ul, text, a, tr, td, li, ol, .katex, .math, .typst-doc, g[class~="typst-text"] {
   text-wrap: wrap;
 }
 
 button.search-button p, h2.page-title > a {
   text-wrap: nowrap;
-}
+}  
+  */
