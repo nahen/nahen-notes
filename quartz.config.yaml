@@ -16,6 +16,7 @@ configuration:
     - .obsidian
     - "**/*.excalidraw"
     - README.md
+    - "Assets/Private"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
